@@ -21,8 +21,6 @@ import org.json.JSONObject
 import java.io.IOException
 import java.nio.charset.StandardCharsets
 import java.util.*
-import android.widget.SearchView
-import android.view.inputmethod.EditorInfo
 
 class ListGunungActivity : AppCompatActivity() {
 
@@ -30,7 +28,7 @@ class ListGunungActivity : AppCompatActivity() {
     lateinit var listGunungAdapter: ListGunungAdapter
     lateinit var modelMain: ModelMain
     var modelGunung: MutableList<ModelGunung> = ArrayList<ModelGunung>()
-    var strLokasiGunung: String? = null
+    var LokasiGunung: String? = null
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -58,9 +56,9 @@ class ListGunungActivity : AppCompatActivity() {
         //get data intent
         modelMain = intent.getSerializableExtra(LIST_GUNUNG) as ModelMain
         if (modelMain != null) {
-            strLokasiGunung = modelMain.strLokasi
+            LokasiGunung = modelMain.Lokasi
 
-            tvLokasi.setText(strLokasiGunung)
+            tvLokasi.setText(LokasiGunung)
 
             //set data adapter to recyclerview
             listGunungAdapter = ListGunungAdapter(this, modelGunung)
@@ -80,7 +78,7 @@ class ListGunungActivity : AppCompatActivity() {
 
     private fun getListGunung() {
         try {
-            val stream = assets.open("nama_gunung.json")
+            val stream = assets.open("dataGunung.json")
             val size = stream.available()
             val buffer = ByteArray(size)
             stream.read(buffer)
@@ -91,20 +89,20 @@ class ListGunungActivity : AppCompatActivity() {
                 val jsonArray = jsonObject.getJSONArray("gunung")
                 for (i in 0 until jsonArray.length()) {
                     val jsonObjectData = jsonArray.getJSONObject(i)
-                    if (jsonObjectData.getString("lokasi") == strLokasiGunung) {
+                    if (jsonObjectData.getString("lokasi") == LokasiGunung) {
                         val jsonArrayMountain = jsonObjectData.getJSONArray("nama_gunung")
                         for (j in 0 until jsonArrayMountain.length()) {
-                            val dataApi = ModelGunung()
+                            val gunung = ModelGunung()
                             val objectMountain = jsonArrayMountain.getJSONObject(j)
-                            dataApi.strImageGunung = objectMountain.getString("image_gunung")
-                            dataApi.strNamaGunung = objectMountain.getString("nama")
-                            dataApi.strLokasiGunung = objectMountain.getString("lokasi")
-                            dataApi.strDeskripsi = objectMountain.getString("deskripsi")
-                            dataApi.strInfoGunung = objectMountain.getString("info_gunung")
-                            dataApi.strJalurPendakian = objectMountain.getString("jalur_pendakian")
-                            dataApi.strLat = objectMountain.getDouble("lat")
-                            dataApi.strLong = objectMountain.getDouble("lon")
-                            modelGunung.add(dataApi)
+                            gunung.ImageGunung = objectMountain.getString("image_gunung")
+                            gunung.NamaGunung = objectMountain.getString("nama")
+                            gunung.LokasiGunung = objectMountain.getString("lokasi")
+                            gunung.Deskripsi = objectMountain.getString("deskripsi")
+                            gunung.InfoGunung = objectMountain.getString("info_gunung")
+                            gunung.JalurPendakian = objectMountain.getString("jalur_pendakian")
+                            gunung.Lat = objectMountain.getDouble("lat")
+                            gunung.Long = objectMountain.getDouble("lon")
+                            modelGunung.add(gunung)
                         }
                         listGunungAdapter.notifyDataSetChanged()
                     }

@@ -13,7 +13,7 @@ import com.example.HikingHelperPI.adapter.ViewPagerAdapter
 import kotlinx.android.synthetic.main.activity_detail_peralatan.toolbar
 import kotlinx.android.synthetic.main.activity_peralatan.*
 
-class PeralatanActivity : AppCompatActivity() {
+class TipsActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

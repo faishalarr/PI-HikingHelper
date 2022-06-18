@@ -17,14 +17,6 @@ import android.widget.Filter
 import android.widget.Filterable
 import java.util.ArrayList
 
-/**
- * Created by Azhar Rivaldi on 01-06-2021
- * Youtube Channel : https://bit.ly/2PJMowZ
- * Github : https://github.com/AzharRivaldi
- * Twitter : https://twitter.com/azharrvldi_
- * Instagram : https://www.instagram.com/azhardvls_
- * Linkedin : https://www.linkedin.com/in/azhar-rivaldi
- */
 
 class MainAdapter(
     private val context: Context,
@@ -46,7 +38,7 @@ class MainAdapter(
             } else {
                 val filterPattern = constraint.toString().toLowerCase().trim { it <= ' ' }
                 for (modelMainFilter in modelMainFilterList) {
-                    if (modelMainFilter.strLokasi!!.toLowerCase().contains(filterPattern)) {
+                    if (modelMainFilter.Lokasi!!.toLowerCase().contains(filterPattern)) {
                         filteredList.add(modelMainFilter)
                     }
                 }
@@ -73,21 +65,21 @@ class MainAdapter(
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val data = modelMain[position]
 
-        holder.tvLokasi.text = data.strLokasi
+        holder.tvLokasi.text = data.Lokasi
 
-        if (data.strLokasi == "Aceh")
+        if (data.Lokasi == "Aceh")
             imageLokasiDrawable = R.drawable.logo_aceh
-        if (data.strLokasi == "Bali")
+        if (data.Lokasi == "Bali")
             imageLokasiDrawable = R.drawable.logo_bali
-        if (data.strLokasi == "Jambi")
+        if (data.Lokasi == "Jambi")
             imageLokasiDrawable = R.drawable.logo_jambi
-        if (data.strLokasi == "Jawa Timur")
+        if (data.Lokasi == "Jawa Timur")
             imageLokasiDrawable = R.drawable.ic_profile
-        else if (data.strLokasi == "Jawa Tengah")
+        else if (data.Lokasi == "Jawa Tengah")
             imageLokasiDrawable = R.drawable.ic_profile
-        else if (data.strLokasi == "Jawa Barat")
+        else if (data.Lokasi == "Jawa Barat")
             imageLokasiDrawable = R.drawable.ic_profile
-        else if (data.strLokasi == "Luar Pulau Jawa")
+        else if (data.Lokasi == "Luar Pulau Jawa")
             imageLokasiDrawable = R.drawable.ic_profile
 
         holder.imageLokasi.setImageResource(imageLokasiDrawable)

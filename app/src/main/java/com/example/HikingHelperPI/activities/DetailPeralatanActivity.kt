@@ -16,8 +16,8 @@ import kotlinx.android.synthetic.main.activity_detail_peralatan.*
 class DetailPeralatanActivity : AppCompatActivity() {
 
     lateinit var modelPeralatan: ModelPeralatan
-    var strNamaAlat: String? = null
-    var strDeskripsi: String? = null
+    var NamaAlat: String? = null
+    var Deskripsi: String? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -42,15 +42,15 @@ class DetailPeralatanActivity : AppCompatActivity() {
         //get data intent
         modelPeralatan = intent.getSerializableExtra(DETAIL_PERALATAN) as ModelPeralatan
         if (modelPeralatan != null) {
-            strNamaAlat = modelPeralatan.strNamaPeralatan
-            strDeskripsi = modelPeralatan.strDeskripsiPeralatan
+            NamaAlat = modelPeralatan.NamaPeralatan
+            Deskripsi = modelPeralatan.DeskripsiPeralatan
 
             Glide.with(this)
-                .load(modelPeralatan.strImagePeralatan)
+                .load(modelPeralatan.ImagePeralatan)
                 .into(imageAlat)
 
-            tvNamaAlat.setText(strNamaAlat)
-            tvDetailAlat.setText(strDeskripsi)
+            tvNamaAlat.setText(NamaAlat)
+            tvDetailAlat.setText(Deskripsi)
         }
     }
 

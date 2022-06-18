@@ -15,14 +15,6 @@ import com.example.HikingHelperPI.model.ModelPeralatan
 import com.bumptech.glide.Glide
 import kotlinx.android.synthetic.main.list_item_peralatan_tips.view.*
 
-/**
- * Created by Azhar Rivaldi on 03-06-2021
- * Youtube Channel : https://bit.ly/2PJMowZ
- * Github : https://github.com/AzharRivaldi
- * Twitter : https://twitter.com/azharrvldi_
- * Instagram : https://www.instagram.com/azhardvls_
- * Linkedin : https://www.linkedin.com/in/azhar-rivaldi
- */
 
 class PeralatanAdapter(private val context: Context?, private val modelPeralatan:
 List<ModelPeralatan>) : RecyclerView.Adapter<PeralatanAdapter.ViewHolder>() {
@@ -37,13 +29,13 @@ List<ModelPeralatan>) : RecyclerView.Adapter<PeralatanAdapter.ViewHolder>() {
 
         if (context != null) {
             Glide.with(context)
-                .load(data.strImagePeralatan)
-                .into(holder.imagePeralatan)
+                .load(data.ImagePeralatan)
+                .into(holder.listimagePeralatan)
         }
 
 
-        holder.tvNamaAlat.text = data.strNamaPeralatan
-        holder.tvTipeAlat.text = data.strTipePeralatan
+        holder.listNamaAlat.text = data.NamaPeralatan
+        holder.listTipeAlat.text = data.TipePeralatan
 
         holder.cvListPeralatan.setOnClickListener {
             val intent = Intent(context, DetailPeralatanActivity::class.java)
@@ -61,15 +53,15 @@ List<ModelPeralatan>) : RecyclerView.Adapter<PeralatanAdapter.ViewHolder>() {
 
     class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         var cvListPeralatan: CardView
-        var imagePeralatan: ImageView
-        var tvNamaAlat: TextView
-        var tvTipeAlat: TextView
+        var listimagePeralatan: ImageView
+        var listNamaAlat: TextView
+        var listTipeAlat: TextView
 
         init {
             cvListPeralatan = itemView.cvListPeralatan
-            imagePeralatan = itemView.imagePeralatan
-            tvNamaAlat = itemView.tvNamaAlat
-            tvTipeAlat = itemView.tvTipeAlat
+            listimagePeralatan = itemView.imagePeralatan
+            listNamaAlat = itemView.tvNamaAlat
+            listTipeAlat = itemView.tvTipeAlat
         }
     }
 

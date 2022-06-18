@@ -21,15 +21,15 @@ import kotlinx.android.synthetic.main.activity_detail_gunung.*
 
 class DetailGunungActivity : AppCompatActivity(), OnMapReadyCallback {
 
-    var dblLatitude = 0.0
-    var dblLongitude = 0.0
-    var strNamaGunung: String? = null
-    var strDeskripsi: String? = null
-    var strJalurGunung: String? = null
-    var strInfoGunung: String? = null
-    lateinit var strLokasiGunung: String
+    var Latitude = 0.0
+    var Longitude = 0.0
+    var NamaGunung: String? = null
+    var Deskripsi: String? = null
+    var JalurGunung: String? = null
+    var InfoGunung: String? = null
+    lateinit var LokasiGunung: String
     lateinit var modelGunung: ModelGunung
-    lateinit var googleMaps: GoogleMap
+    lateinit var gMaps: GoogleMap
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -57,36 +57,36 @@ class DetailGunungActivity : AppCompatActivity(), OnMapReadyCallback {
         //get data intent
         modelGunung = intent.getSerializableExtra(DETAIL_GUNUNG) as ModelGunung
         if (modelGunung != null) {
-            strLokasiGunung = modelGunung.strLokasiGunung.toString()
-            strNamaGunung = modelGunung.strNamaGunung
-            strDeskripsi = modelGunung.strDeskripsi
-            strJalurGunung = modelGunung.strJalurPendakian
-            strInfoGunung = modelGunung.strInfoGunung
-            dblLatitude = modelGunung.strLat
-            dblLongitude = modelGunung.strLong
+            LokasiGunung = modelGunung.LokasiGunung.toString()
+            NamaGunung = modelGunung.NamaGunung
+            Deskripsi = modelGunung.Deskripsi
+            JalurGunung = modelGunung.JalurPendakian
+            InfoGunung = modelGunung.InfoGunung
+            Latitude = modelGunung.Lat
+            Longitude = modelGunung.Long
 
             Glide.with(this)
-                .load(modelGunung.strImageGunung)
+                .load(modelGunung.ImageGunung)
                 .into(imageGunung)
 
-            tvNamaGunung.setText(strNamaGunung)
-            tvLokasiGunung.setText(strLokasiGunung)
-            tvDeskripsi.setText(strDeskripsi)
-            tvJalurGunung.setText(strJalurGunung)
-            tvInfoGunung.setText(strInfoGunung)
+            tvNamaGunung.setText(NamaGunung)
+            tvLokasiGunung.setText(LokasiGunung)
+            detDeskripsi.setText(Deskripsi)
+            detJalurGunung.setText(JalurGunung)
+            detInfoGunung.setText(InfoGunung)
         }
     }
 
     //set map
     override fun onMapReady(googleMap: GoogleMap) {
-        googleMaps = googleMap
-        val latLng = LatLng(dblLatitude, dblLongitude)
-        googleMaps.addMarker(MarkerOptions().position(latLng).title(strNamaGunung))
-        googleMaps.moveCamera(CameraUpdateFactory.newLatLng(latLng))
-        googleMaps.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 16f))
-        googleMaps.uiSettings.setAllGesturesEnabled(true)
-        googleMaps.uiSettings.isZoomGesturesEnabled = true
-        googleMaps.isTrafficEnabled = true
+        gMaps = googleMap
+        val latLng = LatLng(Latitude, Longitude)
+        gMaps.addMarker(MarkerOptions().position(latLng).title(NamaGunung))
+        gMaps.moveCamera(CameraUpdateFactory.newLatLng(latLng))
+        gMaps.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 16f))
+        gMaps.uiSettings.setAllGesturesEnabled(true)
+        gMaps.uiSettings.isZoomGesturesEnabled = true
+        gMaps.isTrafficEnabled = true
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {

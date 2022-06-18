@@ -20,8 +20,6 @@ import java.io.IOException
 import java.nio.charset.StandardCharsets
 import java.util.*
 import com.example.HikingHelperPI.activities.*
-import android.widget.SearchView
-import android.view.inputmethod.EditorInfo
 import com.denzcoskun.imageslider.ImageSlider
 import com.denzcoskun.imageslider.models.SlideModel
 import kotlin.collections.ArrayList
@@ -68,7 +66,7 @@ class MainActivity : AppCompatActivity() {
 
         //open activity peralatan
         fabPeralatan.setOnClickListener {
-            val intent = Intent(this@MainActivity, BantuanActivity::class.java)
+            val intent = Intent(this@MainActivity, TipsActivity::class.java)
             startActivity(intent)
         }
 
@@ -78,7 +76,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun getLokasiGunung() {
         try {
-            val stream = assets.open("nama_gunung.json")
+            val stream = assets.open("dataGunung.json")
             val size = stream.available()
             val buffer = ByteArray(size)
             stream.read(buffer)
@@ -88,10 +86,10 @@ class MainActivity : AppCompatActivity() {
                 val jsonObject = JSONObject(strContent)
                 val jsonArray = jsonObject.getJSONArray("gunung")
                 for (i in 0 until jsonArray.length()) {
-                    val dataApi = ModelMain()
+                    val gunung = ModelMain()
                     val jsonObjectData = jsonArray.getJSONObject(i)
-                    dataApi.strLokasi = jsonObjectData.getString("lokasi")
-                    modelMain.add(dataApi)
+                    gunung.Lokasi = jsonObjectData.getString("lokasi")
+                    modelMain.add(gunung)
                 }
             } catch (e: JSONException) {
                 e.printStackTrace()

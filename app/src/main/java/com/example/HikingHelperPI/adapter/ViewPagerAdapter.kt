@@ -4,26 +4,17 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentStatePagerAdapter
 import com.example.HikingHelperPI.fragment.FragmentPeralatan
-import com.example.HikingHelperPI.fragment.FragmentTips
-
-/**
- * Created by Azhar Rivaldi on 03-06-2021
- * Youtube Channel : https://bit.ly/2PJMowZ
- * Github : https://github.com/AzharRivaldi
- * Twitter : https://twitter.com/azharrvldi_
- * Instagram : https://www.instagram.com/azhardvls_
- * Linkedin : https://www.linkedin.com/in/azhar-rivaldi
- */
+import com.example.HikingHelperPI.fragment.FragmentVideoTips
 
 class ViewPagerAdapter(fragmentManager: FragmentManager) : FragmentStatePagerAdapter(fragmentManager) {
 
     override fun getItem(position: Int): Fragment {
-        var fragment: Fragment? = null
+        var pages: Fragment? = null
         when (position) {
-            0 -> fragment = FragmentPeralatan()
-            1 -> fragment = FragmentTips()
+            0 -> pages = FragmentPeralatan()
+            1 -> pages = FragmentVideoTips()
         }
-        return fragment!!
+        return pages!!
     }
 
     override fun getCount(): Int {

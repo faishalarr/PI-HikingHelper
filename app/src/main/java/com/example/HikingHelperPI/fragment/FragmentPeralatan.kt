@@ -34,13 +34,13 @@ class FragmentPeralatan : Fragment() {
         rvPeralatan.setAdapter(peralatanAdapter)
         rvPeralatan.setHasFixedSize(true)
 
-        //get data nama gunung
+        //get data nama peralatan
         getPeralatanGunung()
     }
 
     private fun getPeralatanGunung() {
         try {
-            val stream = requireContext().assets.open("peralatan.json")
+            val stream = requireContext().assets.open("dataPeralatan.json")
             val size = stream.available()
             val buffer = ByteArray(size)
             stream.read(buffer)
@@ -51,13 +51,13 @@ class FragmentPeralatan : Fragment() {
                 val jsonArray = jsonObject.getJSONArray("peralatan")
                 for (i in 0 until jsonArray.length()) {
                     val jsonObjectData = jsonArray.getJSONObject(i)
-                    val dataApi = ModelPeralatan()
-                    dataApi.strNamaPeralatan = jsonObjectData.getString("nama")
-                    dataApi.strImagePeralatan = jsonObjectData.getString("image_url")
-                    dataApi.strTipePeralatan = jsonObjectData.getString("tipe")
-                    dataApi.strDeskripsiPeralatan = jsonObjectData.getString("deskripsi")
-                    dataApi.strTipsPeralatan = jsonObjectData.getString("tips")
-                    modelPeralatan.add(dataApi)
+                    val peralatan = ModelPeralatan()
+                    peralatan.NamaPeralatan = jsonObjectData.getString("nama")
+                    peralatan.ImagePeralatan = jsonObjectData.getString("image_url")
+                    peralatan.TipePeralatan = jsonObjectData.getString("tipe")
+                    peralatan.DeskripsiPeralatan = jsonObjectData.getString("deskripsi")
+                    peralatan.TipsPeralatan = jsonObjectData.getString("tips")
+                    modelPeralatan.add(peralatan)
                 }
             } catch (e: JSONException) {
                 e.printStackTrace()

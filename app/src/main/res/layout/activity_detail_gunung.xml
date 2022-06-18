@@ -82,7 +82,7 @@
                     android:textSize="12sp" />
 
                 <TextView
-                    android:id="@+id/tvDeskripsi"
+                    android:id="@+id/detDeskripsi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_below="@id/tvLokasiGunung"
@@ -124,7 +124,7 @@
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/tvJalurGunung"
+                    android:id="@+id/detJalurGunung"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
@@ -150,7 +150,7 @@
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/tvInfoGunung"
+                    android:id="@+id/detInfoGunung"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"

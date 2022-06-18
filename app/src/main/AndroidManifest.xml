@@ -17,7 +17,7 @@
         tools:targetApi="q">
         <activity android:name=".activities.BantuanActivity"></activity>
         <activity android:name=".fragment.FragmentHelp" />
-        <activity android:name=".activities.PeralatanActivity" />
+        <activity android:name=".activities.TipsActivity" />
         <activity android:name=".activities.DetailPeralatanActivity" />
         <activity android:name=".activities.DetailGunungActivity" />
         <activity android:name=".activities.ListGunungActivity" />
