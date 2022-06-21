@@ -10,7 +10,7 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="FabExtendedMaterialTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:backgroundTint">@color/btn</item>
         <item name="textAppearanceButton">@style/AppTextAppearance.Button</item>
     </style>
 

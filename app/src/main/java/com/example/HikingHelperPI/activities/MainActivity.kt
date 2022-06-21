@@ -64,9 +64,15 @@ class MainActivity : AppCompatActivity() {
         rvLokasi.setAdapter(mainAdapter)
         rvLokasi.setHasFixedSize(true)
 
-        //open activity peralatan
-        fabPeralatan.setOnClickListener {
+        //open activity tips
+        fabTips.setOnClickListener {
             val intent = Intent(this@MainActivity, TipsActivity::class.java)
+            startActivity(intent)
+        }
+
+        //open activity bantuan
+        fabBantuan.setOnClickListener {
+            val intent = Intent(this@MainActivity, BantuanActivity::class.java)
             startActivity(intent)
         }
 

@@ -31,12 +31,112 @@
         {
           "nama": "Gunung Agung",
           "image_gunung": "https://phinemo.com/wp-content/uploads/2017/09/gunung-agung.jpg",
-          "lokasi": "Luar Pulau Jawa",
+          "lokasi": "Bali",
           "lat": -8.3433238,
           "lon": 115.5039886,
           "deskripsi": "Gunung Agung adalah gunung tertinggi di pulau Bali dengan ketinggian 3.031 mdpl. Gunung ini terletak di kecamatan Rendang, Kabupaten Karangasem, Bali, Indonesia. Pura Besakih, yang merupakan salah satu Pura terpenting di Bali, terletak di lereng gunung ini.\nGunung Agung adalah gunung berapi tipe stratovolcano, gunung ini memiliki kawah yang sangat besar dan sangat dalam yang kadang-kadang mengeluarkan asap dan uap air. Dari Pura Besakih gunung ini nampak dengan kerucut runcing sempurna, tetapi sebenarnya puncak gunung ini memanjang dan berakhir pada kawah yang melingkar dan lebar.",
           "jalur_pendakian": "Kecamatan Selat\nBudakeling\nPura Besakih",
           "info_gunung": "Nama: Gunung Agung\nKetinggian: 3.031 mdpl\nLokasi: Bali\nTipe: Gunung Stratovolcano"
+        }
+      ]
+    },
+    {
+      "lokasi": "Kepulauan Bangka Belitung",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Maras",
+          "image_gunung": "https://cdn-2.tstatic.net/belitung/foto/bank/images/bukit-maras-bangka.jpg",
+          "lokasi": "Kepulauan Bangka Belitung",
+          "lat": -1.8833225048818898,
+          "lon": 105.83333225403703,
+          "deskripsi": "Bukit Maras kadang disebut dengan Gunung Maras yang terletak di Desa Berbura, Kecamatan Riausilip, Kabupaten Bangka,  Provinsi Kepulauan Bangka Belitung.Bukit Maras ini berada di ketinggian 669Mdpl yang merupakan puncak tertinggi di Pulau Bangka.\nUntuk mendaki maka para pendaki harus mematuhi pandanga kepercayaan warga sekitar tentang keangkerannya.Pasalnya tak jarang ada beberapa pendaki yang tersesat saat mendaki Bukit Maras.",
+          "jalur_pendakian": "\nDusun Buhir\nDesa Berbura",
+          "info_gunung": "Nama: Gunung Maras\nKetinggian: 669 mdpl\nLokasi: Kepulauan Bangka Belitung\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Banten",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Honje",
+          "image_gunung": "https://indonesiatraveler.id/wp-content/uploads/2020/07/Taman-Nasional-Ujung-Kulon-Gunung-Honje-768x491.jpg",
+          "lokasi": "Banten",
+          "lat": -6.714620486464046,
+          "lon": 105.5672244280955,
+          "deskripsi": "Gunung Honje merupakan salah satu wilayah Taman Nasional Ujung Kulon. Gunung Honje tak jauh berbeda dengan gunung gunung lainnya yang berada wilayah danau Jatiluhur, seperti Gunung Lembu dan Gunung Bongkok serta Gubung Parang, karena ketiganya sama-sama punya ketinggian di atas 500 mdpl.\nLuas wilayah Gunung Honje sekitar 19.500 hektar dengan dikelilingi oleh 19 (sembilan belas) desa penyangga, baik yang berbatasan langsung maupun tidak langsung.",
+          "jalur_pendakian": "\nJalur Bonus\nJalur Ngorondang",
+          "info_gunung": "Nama: Gunung Honje\nKetinggian: 620 mdpl\nLokasi: Banten\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Karang",
+          "image_gunung": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/14/2542370178.jpg",
+          "lokasi": "Banten",
+          "lat": -6.261236739418425,
+          "lon": 106.07223393289124,
+          "deskripsi": "Gunung Karang merupakan gunung tertinggi di Provinsi Banten. Ketinggiannya yaitu 1.778 mdpl. Gunung ini adalah gunung api tipe B. Artinya gunung api yang sudah tidak aktif namun memiliki kawah yang masih mengepulkan asap belerang atau gas sulfur.Gunung Karang terletak di kawasan Kabupaten Pandeglang dan Kabupaten Serang, Provinsi Banten. \nSelain menjadi gunung tertinggi di Banten, gunung ini juga dijadikan sebagai gunung tempat wisata religi atau biasa disebut dengan aktivitas ziarah. ",
+          "jalur_pendakian": "\nDesa Kaduengang\nJalur Pagerwatu / Ciekek",
+          "info_gunung": "Nama: Gunung Karang\nKetinggian: 1.778 mdpl\nLokasi: Banten\nTipe: Gunung Stratovolcano"
+        },
+        {
+          "nama": "Gunung Pulosari",
+          "image_gunung": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/kabarbanten/2018/09/gunung-pulosari-pandeglang.jpg",
+          "lokasi": "Banten",
+          "lat": -6.3399592572953,
+          "lon": 105.97850360370228,
+          "deskripsi": "Gunung Pulosari merupakan gunung api tipe B yakni gunung api yang sudah lama tidak aktif lagi. Ketinggiannya yakni 1.346 mdpl. Memang tidak begitu tinggi dengan beberapa gunung yang ada di Jawa Barat, namun gunung ini memiliki kelebihannya sendiri.\n Gunung Pulosari terletak di Kabupaten Pandeglang, provinsi Banten. Puncaknya berupa puncak kawah mati yang sudah tidak aktif. Yaitu dikelilingi vegetasi kecil dan terdapat kawah mati berupa kubahan kecil yang masih mengepulkan asap (gas) sulfur.",
+          "jalur_pendakian": "\nJalur Cilentung \nJalur Citunggul",
+          "info_gunung": "Nama: Gunung Pulosari\nKetinggian: 1.346 mdpl\nLokasi: Banten\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Bengkulu",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Patah",
+          "image_gunung": "https://www.bengkuluinteraktif.com/sites/default/files/articles/gunung%20patah%20bengkulu%20-%20Copy.jpg",
+          "lokasi": "Bengkulu",
+          "lat": -4.255445447142574,
+          "lon": 103.30656268875792,
+          "deskripsi": "Gunung Patah adalah gunung berapi berusia pada periode kuaterner, dengan vegetasi hutan hujan tropis yang sangat lebat, terletak sebelah barat dayat Gunung Dempo di Sumatra, Indonesia. Gunung patah masuk dalam kawasan hutan lindung Rajamendara. ",
+          "jalur_pendakian": "Jalur Semendo \nJalur Lahat \nDesa Manau IX Kecamatan Padangguci",
+          "info_gunung": "Nama: Gunung Patah\nKetinggian: 2.817 mdpl\nLokasi: Bengkulu\nTipe: Gunung Berapi"
+        },
+        {
+          "nama": "Gunung Bepagut",
+          "image_gunung": "https://1.bp.blogspot.com/-J2PVouvfd1o/VLDGvLbUcvI/AAAAAAAAEMk/TAzgCODVh7I/s1600/g.bepagut.png",
+          "lokasi": "Bengkulu",
+          "lat": -4.328116860754853,
+          "lon": 103.47273471258389,
+          "deskripsi": "Gunung Bepagut adalah gunung yang berada di provinsi Sumatera Selatan, tepat di garis perbatasan antara Bengkulu dengan Palembang. Gunung Bepagut juga berdekatan dengan gunung Patah. Gunung Bepagut memiliki ketinggian mencapai kurang lebih 2.206 mdpl. \nLokasi gunung ini sangat jauh dari pemukiman penduduk, karena jarak rumah setiap keluarga dengan warga lain berkisar 10 km persegi, bahkan untuk bisa mencapai kota terdekat pun kalian perlu menempuh perjalanan selama 19 jam dengan transportasi lokal.",
+          "jalur_pendakian": "Jalur Semendo \nJalur Lahat ",
+          "info_gunung": "Nama: Gunung Bepagut\nKetinggian: 2.206 mdpl\nLokasi: Bengkulu\nTipe: Gunung Hypsographic"
+        },
+        {
+          "nama": "Gunung Kaba",
+          "image_gunung": "https://getlost.id/wp-content/uploads/2021/03/@_aditiasentanu-768x512.jpg",
+          "lokasi": "Bengkulu",
+          "lat": -4.328116860754853,
+          "lon": 103.47273471258389,
+          "deskripsi": "Gunung Kaba merupakan salah satu destinasi wisata alam favorit di Bengkulu. Selain karena aksesnya yang mudah, yakni hanya 45 menit berkendara dari pusat kota Curup, jalur pendakiannya pun ramah untuk pemula. \nSering disebut Bukit Kaba karena tingginya hanya 1.938 mdpl, biasanya saat hari libur, banyak pendaki yang berkemah di puncaknya untuk menyaksikan langit yang bertaburkan bintang di malam hari yang cerah.",
+          "jalur_pendakian": "Jalanan Tanah \nJalanan Beraspal",
+          "info_gunung": "Nama: Gunung Kaba\nKetinggian: 1.938 mdpl\nLokasi: Bengkulu\nTipe: Gunung Berapi"
+        }
+      ]
+    },
+    {
+      "lokasi": "Gorontalo",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Tilongkabila",
+          "image_gunung": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Gunung_Tilongkabila.jpg",
+          "lokasi": "Gorontalo",
+          "lat": 0.5667330914454488,
+          "lon": 123.34910852645507,
+          "deskripsi": "Gunung Tilongkabila adalah salah satu gunung di Indonesia tepatnya di provinsi Gorontalo dengan ketinggian 1393 meter , dan mencapai 4570 kaki. Gunung ini merupakan salah satu gunung tertinggi di Gorontalo. Banyak pemandangan yang dapat dilihat di puncak gunung. \nDi gunung ini terdapat air panas yang dapat digunakan sebagai sumber mata air pemandian air panas di tempat wisata lain. Banyak pendaki yang berlomba-lomba untuk mencapai puncak gunung tersebut meskipun terhitung untuk perjalanan akan terasa lelah.",
+          "jalur_pendakian": "Desa Lombongo",
+          "info_gunung": "Nama: Gunung Tilongkabila\nKetinggian: 1500 mdpl\nLokasi: Gorontalo\nTipe: Gunung Berapi"
         }
       ]
     },
@@ -51,7 +151,7 @@
           "lon": 101.2617267,
           "deskripsi": "Gunung Kerinci (juga dieja Kerintji, dan dikenal sebagai Gunung Gadang, Berapi Kurinci, Kerinchi, Korinci, atau Puncak Indrapura) adalah gunung tertinggi di Sumatra, gunung berapi tertinggi di Indonesia, dan puncak tertinggi di Indonesia di luar Papua. Gunung Kerinci terletak di Provinsi Jambi yang berbatasan dengan provinsi Sumatera Barat, di Pegunungan Bukit Barisan, dekat pantai barat, dan terletak sekitar 130 km sebelah selatan Padang. Gunung ini dikelilingi hutan lebat Taman Nasional Kerinci Seblat dan merupakan habitat harimau sumatra dan badak sumatra.",
           "jalur_pendakian": "Kersik Tuo",
-          "info_gunung": "Nama: Gunung Kerinci\nKetinggian: 3.805 mdpl\nLokasi: Sumatra\nTipe: Gunung Berapi"
+          "info_gunung": "Nama: Gunung Kerinci\nKetinggian: 3.805 mdpl\nLokasi: Jambi\nTipe: Gunung Berapi"
         }
       ]
     },
@@ -411,6 +511,226 @@
       ]
     },
     {
+      "lokasi": "Kalimantan Barat",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Palung",
+          "image_gunung": "https://www.aca.co.id/cmsprd/uploads/FaktaUnikTamanNasionalGunungPalung%201528440357.jpg",
+          "lokasi": "Kalimantan Barat",
+          "lat": -0.8689441197300541,
+          "lon":  109.97338689054745,
+          "deskripsi": "Gunung Palung adalah gunung yang terletak di Kabupaten Ketapang dan Kabupaten Kayong Utara, Kalimantan Barat, dan masuk dalam kawasan Taman Nasional Gunung Palung (TNGP). \nGunung Palung memiliki ketinggian 1116 mdpl (meter di atas permukaan laut). Gunung ini bukanlah gunung yang umum sebagai pendakian, namun adalah gunung cagar alam dan sebagai objek penelitian karena di dalamnya terdapat ribuan spesies makhluk hidup yang langka.",
+          "jalur_pendakian": "Taman Nasional Gunung Palung",
+          "info_gunung": "Nama: Gunung Palung\nKetinggian: 1116 mdpl\nLokasi: Kalimantan Barat\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Batu Daya",
+          "image_gunung": "https://lh5.googleusercontent.com/p/AF1QipPwqVRp-EET2voFX8eTBPK8HkQ77EH3Wba5MUSS=w408-h306-k-no",
+          "lokasi": "Kalimantan Barat",
+          "lat": -1.0083656112230948,
+          "lon":  110.32416987520371,
+          "deskripsi": "Gunung Batu Daya adalah gunung yang berada di Ketapang, Kalimantan Barat. Gunung ini adalah sebuah batu raksasa dan bukan seperti gunung pada umumnya yang berteksturkan tanah melainkan seluruhnya adalah batu. \nGunung ini berdekatan dengan salah satu aset alam yang berharga lainnya di Kalimantan Barat, yakni Gunung Palung. Dan sama-sama masuk dalam kawasan Taman Nasional Gunung Palung (TNGP).",
+          "jalur_pendakian": "Jalur Jalan Rasau Jaya",
+          "info_gunung": "Nama: Gunung Palung\nKetinggian: 499  mdpl\nLokasi: Kalimantan Barat\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Bawang",
+          "image_gunung": "https://upload.wikimedia.org/wikipedia/id/0/09/Gunung_Bawang.jpg",
+          "lokasi": "Kalimantan Barat",
+          "lat": 0.9017163595382842,
+          "lon":  109.40072938829981,
+          "deskripsi": "Gunung Bawang adalah gunung yang terletak di Bengkayang, Kalimantan Barat. Tepatnya adalah berada di kecamatan Lebang Bawang. Namun beberapa kecamatan lain juga menjadi bagian dari kaki gunung ini yakni Kecamatan Sungai Betung, Kecamatan Lumar dan Kecamatan Bengkayang. Semuanya masuk dalam kabupaten Bengkayang.\nDinamakan “gunung Bawang” karena bentuknya berlapis hingga 7 lapis seperti bawang. Gunung ini memiliki ketinggian 1460 mdpl (meter di atas permukaan laut). Tidak terlalu tinggi namun perjalanan menuju start pendakian hingga summit sangatlah menegangkan dan penuh cerita tentunya.",
+          "jalur_pendakian": "Jalur desa Madi \nJalur desa Suka Maju  \nJalur desa Suka Bangun",
+          "info_gunung": "Nama: Bawang\nKetinggian: 1460   mdpl\nLokasi: Kalimantan Barat\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Kalimantan Selatan",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Halau-Halau",
+          "image_gunung": "https://www.infobanjarmasin.com/wp-content/uploads/2022/01/maxresdefault.jpg",
+          "lokasi": "Kalimantan Selatan",
+          "lat": -2.6175937119733117,
+          "lon": 115.5812599268389,
+          "deskripsi": " Gunung Halau-halau atau sering disebut Gunung Besar merupakan gunung yang dikeramatkan bagi warga suku dayak Meratus. Gunung yang merupakan bagian dari puncak Pegunungan (seven summits) Meratus membelah tiga kabupaten, yaitu Kabupaten Hulu Sungai Tengah, Kabupaten Hulu Sungai Selatan dan Kabupaten Tanah Bumbu.\nPendakian ke Gunung Halau-halau ini umumnya memerlukan waktu hampir sepekan pergi pulang.",
+          "jalur_pendakian": "Desa Kiyu \nDesa Kadayang",
+          "info_gunung": "Nama: Gunung Halau-Halau\nKetinggian: 1.892 mdpl\nLokasi: Kalimantan Selatan\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Hauk",
+          "image_gunung": "https://assets.kompasiana.com/items/album/2020/04/25/copy-of-dsc02294-jpg-5ea457d2d541df4f395cf492.jpg?t=o&v=770",
+          "lokasi": "Kalimantan Selatan",
+          "lat": -2.485740932987979,
+          "lon": 115.679583074092,
+          "deskripsi": "Gunung Hauk berada di wilayah Desa Ajung yang merupakan salah satu desa wisata di Kecamatan Tebing Tinggi, Kabupaten Balangan. Desa ini dapat dijangkau sekitar 1-2 jam dari ibukota kabupaten melalui kondisi jalan yang cukup baik dengan rute menyusuri lereng pegunungan Meratus. Wisata Desa Ajung dikelola Pokdarwis Karang Bintang. \nPendakian ke puncak Gunung Hauk dikenakan biaya registrasi dan parkir Rp20 ribu perorang. Sedangkan wisata lain berupa Wisata Batu Ajung yang ada di Dusun Nanai dikenakan biaya parkir Rp5 ribu untuk sepeda motor dan Rp10 ribu untuk roda empat.",
+          "jalur_pendakian": "Desa Ajung",
+          "info_gunung": "Nama: Gunung Hauk\nKetinggian: 1.325 mdpl\nLokasi: Kalimantan Selatan\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Kalimantan Tengah",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Bukit Raya",
+          "image_gunung": "http://www.the7summitsindonesia.com/wp-content/uploads/2021/02/bukitrayaheader2.jpg",
+          "lokasi": "Kalimantan Tengah",
+          "lat": -1.6993189,
+          "lon": 101.2617267,
+          "deskripsi": "Gunung Bukit Raya memiliki ketinggian 2278 mdpl dan menjadi Gunung Tertinggi di Kalimantan, serta berada di dalam Kawasan Taman Nasional Bukit Baka – Bukit Raya maka suguhan indah dari Pulau Kalimantan pun juga tersaji indah di dalamnya. \nDi antara gunung tertinggi lainnya, Gunung Bukit Raya menjadi gunung yang jarang didaki dan termahal setelah Gunung Carstensz Pyramid di Papua. Hal ini disebabkan karena letaknya yang sangat terpencil dan juga memerlukan berbagai macam moda transportasi untuk sampai di titik pendakiannya. ",
+          "jalur_pendakian": "Desa Rantau Malam \nDesa Tumbang Habangoi",
+          "info_gunung": "Nama: Gunung Bukit Raya\nKetinggian: 2.278 mdpl\nLokasi: Kalimantan Tengah\nTipe: Gunung Berapi"
+        }
+      ]
+    },
+    {
+      "lokasi": "Kalimantan Timur",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Liangpran",
+          "image_gunung": "https://cdn.idntimes.com/content-images/post/20211120/g1-21fdce1ec5809447a4f1a4e6978bb768.png",
+          "lokasi": "Kalimantan Timur",
+          "lat": 1.0684687317547528,
+          "lon": 114.38449184174766,
+          "deskripsi": "Gunung Liangpran berlokasi di Kabupaten Kutai Barat Kalimantan Timur. Banyak pengunjung atau pendaki yang telah menaklukkan atau mencapai puncak gunung ini. \n\nFakta dan Keindahan Gunung di Kalimantan Timur ini memiliki ketinggian 2.240 meter di atas permukaan laut ini menjadi gunung yang paling tinggi di Kalimantan Timur. \nDi pegunungan ini tersedia penginapan, jadi wisatawan tak perlu khawatir jika tidak membawa perlengkapan untuk berkemah.",
+          "jalur_pendakian": "Long Pahangai",
+          "info_gunung": "Nama: Gunung Liangpran\nKetinggian: 2.240 mdpl\nLokasi: Kalimantan Timur\nTipe: Gunung Berapi"
+        },
+        {
+          "nama": "Gunung Lumut",
+          "image_gunung": "https://cdn-2.tstatic.net/kaltim/foto/bank/images/pemandangan-di-puncak-gunung-lumut-kecamatan-segah-kabupaten-berau-kalimantan-timur.jpg",
+          "lokasi": "Kalimantan Timur",
+          "lat": -1.8031457028571491,
+          "lon": 120.51103661217401,
+          "deskripsi": "Kawasan Hutan Lindung Gunung Lumut luasnya sekitar 42.000 hektar dan puncak tertingginya sekitar 1.210 meter di atas permukaan laut (dpl). Tidak terlalu tinggi memang, jika dibandingkan dengan gunung-gunung yang ada di Pulau Jawa. \nNamun, uniknya gunung ini dibalut lumut. Balutan lumut sudah mulai terlihat pada ketinggian sekitar 900 meter dpl, sesuai dengan iklimnya yang basah, lembab, dan suhunya yang rendah.",
+          "jalur_pendakian": "Jalur Logging Lampeong",
+          "info_gunung": "Nama: Gunung Lumut\nKetinggian: 1.210 mdpl\nLokasi: Kalimantan Timur\nTipe: Gunung Berapi"
+        }
+      ]
+    },
+    {
+      "lokasi": "Kalimantan Utara",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Rego",
+          "image_gunung": "hhttps://radartarakan.jawapos.com/wp-content/uploads/2019/01/2506a0b66bc91e5323413111c415b66e.jpg",
+          "lokasi": "Kalimantan Utara",
+          "lat": 2.9886508539404577,
+          "lon": 117.19713616356658,
+          "deskripsi": "Gunung Rego yang ada di Desa Karang Agung, Kecamatan Tanjung Palas Utara  menawarkan pemandangan yang enggak biasa. Akses jalan menuju lokasi memakan waktu kurang lebih 20 menit, melewati jalan perusahaan kelapa sawit. \nNamun, perjalanan panjang yang menguras tenaga itu akan terbayarkan setelah kamu sampai ke atas bukit loh. Pemandangan hamparan pohon hijau, tidak ada bising dan polusi akan membuat kamu betah berlama-lama menikmati keindahan di atas puncak Gunung Rego.",
+          "jalur_pendakian" : "Desa Karang Agung",
+          "info_gunung": "Nama: Gunung Rego\nKetinggian: - mdpl\nLokasi: Kalimantan Utara\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Lampung",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Pesagi",
+          "image_gunung": "http://www.disporapar.lampungbaratkab.go.id/po-content/uploads/small_34gunungpesagilampungbarat.jpg",
+          "lokasi": "Lampung",
+          "lat": -4.921109603297619,
+          "lon": 104.14632550479256,
+          "deskripsi": "Gunung Pesagi adalah gunung tak aktif salah satu dari 5 Gunung bersejarah yang ada di provinsi Lampung, Indonesia. Dari kelima gunung tersebut, Gunung Pesagi adalah gunung yang mempunyai puncak paling tertinggi yang ada di lemah Lampung (tanah Lampung).Ketinggian puncak dari Gunung Pesagi ini memiliki dua puncak tertinggi, puncak tertinggi pertama disebut Pesagi lunik (kecil) sedangkan puncak tertinggi kedua adalah Pesagi balak (besar), ketinggian dari pesagi lunik (kecil) 2.262 MDPL untuk ketinggian Pesagi balak (besar) mencapai 3.221 MDPL.Gunung Pesagi adalah gunung tak aktif salah satu dari 5 Gunung bersejarah yang ada di provinsi Lampung, Indonesia. \nDari kelima gunung tersebut, Gunung Pesagi adalah gunung yang mempunyai puncak paling tertinggi yang ada di lemah Lampung (tanah Lampung).\nKetinggian puncak dari Gunung Pesagi ini memiliki dua puncak tertinggi, puncak tertinggi pertama disebut Pesagi lunik (kecil) sedangkan puncak tertinggi kedua adalah Pesagi balak (besar), ketinggian dari pesagi lunik (kecil) 2.262 MDPL untuk ketinggian Pesagi balak (besar) mencapai 3.221 MDPL.",
+          "jalur_pendakian": "Jalur Anggrek Kantung Semar \nHutan lumut \nSumur Tujuh \nPenyambungan",
+          "info_gunung": "Nama: Gunung Pesagi\nKetinggian: 3.221  mdpl\nLokasi: Lampung\nTipe: Gunung Stratovolcano"
+        },
+        {
+          "nama": "Gunung Tangkit Tebak",
+          "image_gunung": "https://www.gunungbagging.com/wp-content/uploads/2016/06/DSC01574-730x410.jpg",
+          "lokasi": "Lampung",
+          "lat": -5.008489238984549,
+          "lon": 104.57573609055747,
+          "deskripsi": "Gunung Tangkit Tebak adalah salah satu dari beberapa gunung yang ada di Provinsi Lampung. Gunung ini puncak tertingginya terletak di Kabupaten Lampung Utara tepatnya di desa Dwikora Kecamatan Bukit Kemuning dengan ketinggian 2115 meter di atas permukaan laut, yang merupakan gunung tertinggi nomor dua setelah Gunung Pesagi. Untuk nama Tangkit Tebak sendiri, masyarakat sekitar pun masih kurang familiar. Warga sekitar dari turun-temurun nenek moyang mereka lebih mengenal nama gunung ini dengan sebutan Gunung Abung \nNamun sayang, tidak banyak informasi yang dapat diketahui mengenai Gunung Tangkit Tebak ini. Alasannya karena gunung ini masih sangat jarang didaki kecuali oleh warga setempat. Jalur pendakian resminya pun belum ada, hanya ada jalur seadanya yang dibuat oleh warga lokal.Namun sayang, tidak banyak informasi yang dapat diketahui mengenai Gunung Tangkit Tebak ini. Alasannya karena gunung ini masih sangat jarang didaki kecuali oleh warga setempat. Jalur pendakian resminya pun belum ada, hanya ada jalur seadanya yang dibuat oleh warga lokal.",
+          "jalur_pendakian": "Desa Dwikora \nDesa Cipta Mulya",
+          "info_gunung": "Nama: Gunung Tangkit Tebak\nKetinggian: 2.115  mdpl\nLokasi: Lampung\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Tanggamus",
+          "image_gunung": "https://s3-us-west-1.amazonaws.com/peakery-media/images/items/main/cache/gunung-tanggamus-1.jpg.910x680_q95.jpg",
+          "lokasi": "Lampung",
+          "lat": -5.424508732358637,
+          "lon":  104.67551251286667,
+          "deskripsi": "Gunung Tanggamus adalah sebuah gunung yang terletak di Kecamatan Kota Agung, Kabupaten Tanggamus. Gunung ini merupakan gunung paling populer yang sering didaki oleh pecinta alam asal Lampung ataupun luar Lampung. Selain karena keindahan alam dan juga jalurnya yang tidak seekstrim Gunung Tangkit Tebat, jaraknya yang tidak terlalu jauh dari ibukota Provinsi Lampung adalah salah satu alasan mengapa gunung ini menjadi rekomendasi para pecinta alam. ",
+          "jalur_pendakian": "Pekon Sidokaton",
+          "info_gunung": "Nama: Gunung Tanggamus\nKetinggian: 2.102  mdpl\nLokasi: Lampung\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Maluku",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Binaiya",
+          "image_gunung": "https://www.the7summitsindonesia.com/wp-content/uploads/2018/02/Binayaheader.jpg",
+          "lokasi": "Maluku",
+          "lat": -3.1716188191558197,
+          "lon": 129.45409860547593,
+          "deskripsi": "Gunung Binaya adalah merupakan gunung yang tertinggi di Kepulauan Maluku, kepulauan ini dikelompokan sebagai satu kepulauan utama, puncak Binaiya memiliki ketinggian 3.027 m dari permukaan laut dan terletak di propinsi Maluku, tepatnya di pulau Seram Kabupaten Maluku Tengah pada posisi geografis 3° 10′ LS dan 129° 28′ BT. Gunung ini juga bukan gunung berapi. Akses rute normal pendakian kepuncaknya bisa dimulai dari sisi utara yaitu desa Kanike dan dari sisi selatan yaitu desa Piliana. Disini hanya dibahas rute pendakian dari Piliana karena rute ini lebih singkat dan lebih cepat untuk mencapai puncak Gunung Binaya.",
+          "jalur_pendakian": "Jalur Huaulu\nJalur Mosso \nJalur Piliana",
+          "info_gunung": "Nama: Gunung Binaiya\nKetinggian: 3.027  mdpl\nLokasi: Maluku\nTipe: Non-Vulcanologi"
+        },
+        {
+          "nama": "Gunung Lawarkarwa",
+          "image_gunung": "https://www.gunungbagging.com/wp-content/NEXTGEN/laworkawra/IMG-1416.JPG",
+          "lokasi": "Maluku",
+          "lat": -5.295762488053635,
+          "lon": 119.91550062632629,
+          "deskripsi": "Pulau Nila 5 x 6 km di Laut Banda terdiri dari kaldera berpinggiran rendah yang tepinya terbelah di permukaan laut di selatan dan timur dan berisi kerucut hutan muda setinggi 781 m. Letusan freatik dari Nila andesit yang dominan, juga dikenal sebagai Laworkawra, telah terjadi dari ventilasi puncak dan celah sisi dalam waktu historis. Letusan tahun 1932 dari celah yang memanjang dari puncak ke pantai SE menghasilkan hujan abu lebat yang memaksa desa Rumadai (Smithsonian) ditinggalkan.",
+          "jalur_pendakian": "Jalur Wotai",
+          "info_gunung": "Nama: Gunung Latimojong\nKetinggian: 781  mdpl\nLokasi: Maluku\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Lawarkarwa",
+          "image_gunung": "https://jejakpiknik.com/wp-content/uploads/2020/07/3@agungtravel.id_-630x380.jpg",
+          "lokasi": "Maluku",
+          "lat": -4.439607384268944,
+          "lon": 129.86828405541883,
+          "deskripsi": "Gunung yang terletak di Provinsi Maluku ini sebenarnya memiliki nama asli Ganapus, tapi lebih populer dengan sebutan Gunung Api Banda dan menjadi ‘landmark’ utama dari Kepulauan Banda yang menyapa setiap pengunjung kepulauan penghasil rempah di Maluku Tengah.\n\nGunung api Banda merupakan sebuah pulau yang diapit 2 pulau besar, yaitu Banda Besar dan Naira yang bisa didaki dari lereng selatannya. Jika dalam kondisi fit, puncak Ganapus bisa dicapai dalam waktu 3-4 jam. Selain menjadi habitat burung endemik yang cukup langka, Ganapus juga memiliki kawah cantik di puncak yang bisa kamu lihat dari Pulau Naira ataupun Banda Besar.",
+          "jalur_pendakian": "-",
+          "info_gunung": "Nama: Gunung Latimojong\nKetinggian: 656  mdpl\nLokasi: Maluku\nTipe: Gunung Berapi"
+        }
+      ]
+    },
+    {
+      "lokasi": "Maluku Utara",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Gamalama",
+          "image_gunung": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images2/gunung-gamalama-di-ternate-maluku-utara_20180921_144946.jpg",
+          "lokasi": "Maluku Utara",
+          "lat": 0.8103680718279855,
+          "lon": 127.3334618734808,
+          "deskripsi": "Gunung Gamalama adalah iconnya pulau ternate, gunung ini seperti raksasa yang menyelimuti pulau ternate serta jejeran pepohan yang hijau menutupi indahnya gunung gamalama jika di pandang dari kejauhan terutama bila naik pesawat. Gunung Gamalama memiliki ketinggian 1715 Mdpl, Nama Gamalama sendiri ternyata juga menyimpan sejarah yang unik, loh. Gunung dengan bentuk kerucut ini awalnya bernama Kim Gam Lamo, artinya “Negeri yang Besar”. Hal ini karena wilayah gunung ini memang meliputi seluruh wilayah Ternate. ",
+          "jalur_pendakian": "Desa Moya",
+          "info_gunung": "Nama: Gunung Gamalama\nKetinggian: 1.715  mdpl\nLokasi: Maluku Utara\nTipe: Gunung Berapi Stratovolcano"
+        },
+        {
+          "nama": "Gunung Kie Matubu",
+          "image_gunung": "https://bogordaily.net/wp-content/uploads/2022/03/Puncak-Kie-Matubu-twitter-inisalahu-celebes-co.jpg",
+          "lokasi": "Maluku Utara",
+          "lat": 0.6762573889338414,
+          "lon": 127.40225822102127,
+          "deskripsi :" : "Gunung Kie Matubu merupakan salah satu gunung tertinggi yang ada di Maluku Utara, gunung Kie Matubu juga dikenal dengan nama gunung Tidore. Gunung ini terletak ditengah-tengah kota Tidore. Kota Tidore sendiri merupakan kota ketiga terluas yang ada di Indonesia setelah kota Dumai dan Palangkaraya. \nGunung Kie Matubu Tidore atau gunung Tidore, juga menjadi salah satu gunung yang disenangi para pendaki untuk memacu adrenalin. Pendaki dapat menyaksikan matahari terbit dan terbenam dengan jelas di atas puncak. Seakan-seakan menyaksikan langsung dari tengah lautan Maluku Utara yang terbentang luas. Dari puncak gunung Matubu, pemandangan pulau kecil di sekeliling Kota Ternate dan Tidore juga dapat terlihat dengan sangat jelas.",
+          "jalur_pendakian": "Desa Gurabunga \nDesa Ladake",
+          "info_gunung": "Nama: Gunung Kie Matubu\nKetinggian: 1.730   mdpl\nLokasi: Maluku Utara\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Gamkonora",
+          "image_gunung": "https://img.okezone.com/content/2012/06/13/447/646598/2fMwVEwQcv.jpg",
+          "lokasi": "Maluku Utara",
+          "lat": 1.3804783310041782,
+          "lon": 127.53309354388401,
+          "deskripsi": "Gunung Gamkonora merupakan gunung yang terletak di Pulau Halmahera, tepatnya di Kecamatan Ibu, Kabupaten Halmahera Barat, Provinsi Maluku Utara. Gunung yang memiliki ketinggian 1.635 meter di atas permukaan laut (mdpl) itu menjadi puncak tertinggi di Pulau Halmahera. Letusan gunung berapi ini telah mengakibatkan terjadinya kawah yang memanjang dari utara sampai ke selatan. Letusan terbesar terjadi pada tahun 1673 dan disusul dengan tsunami yang meluluhlantakkan desa-desa di sekitarnya. \nGunung api ini kembali meletus pada tanggal 10 Juli 2007. Sekitar 8.000 orang dilaporkan mengungsi meninggalkan rumah-rumah mereka yang berdekatan dengan gunung tersebut. Letusan terakhir terjadi pada 13 Juni 2012 namun dampaknya tidak terlalu besar.",
+          "jalur_pendakian": "Kampung Gamsungi",
+          "info_gunung": "Nama: Gunung Gamkonora\nKetinggian:  1.560  mdpl\nLokasi: Maluku Utara\nTipe: Gunung Berapi Stratovolcano"
+        }
+      ]
+    },
+    {
       "lokasi": "Nusa Tenggara Barat",
       "nama_gunung": [
         {
@@ -436,17 +756,42 @@
       ]
     },
     {
+      "lokasi": "Nusa Tenggara Timur",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Mutis",
+          "image_gunung": "https://www.goodnewsfromindonesia.id/uploads/post/large-gunung-mutis-2f3fb157f34f720beab3ca56e0b7594f.jpg",
+          "lokasi": "Nusa Tenggara Timur",
+          "lat": -9.564719704263009,
+          "lon": 124.23337574519255,
+          "deskripsi": "Gunung Mutis adalah salah satu gunung yang terdapat di Pulau Timor yang memiliki ketinggian 2.458 mdpl dan menjadi gunung tertinggi di wilayah Timor Barat (Indonesia).[1] Secara administratif berada di perbatasan Kabupaten Timor Tengah Utara dengan Kabupaten Timor Tengah Selatan, Provinsi Nusa Tenggara Timur. Gunung ini memliki tiga puncak yaitu Nuaf Muna, Nuaf Nefomasi dan Nuaf Nupala dan merupakan Cagar Alam Gunung Mutis yang terkenal dengan kekayaan marmernya.",
+          "jalur_pendakian": "Desa Fatumnasi",
+          "info_gunung": "Nama: Gunung Mutis\nKetinggian: 2.458 mdpl\nLokasi: NTT.\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Inerie",
+          "image_gunung": "https://cdn.idntimes.com/content-images/community/2021/11/66437929-222764601993195-7292846179357016066-n-b9525602b7a0cdcf30573dba18d33241-7fbf2456842ab50fdf8ff447f84eb805.jpg",
+          "lokasi": "Nusa Tenggara Timur",
+          "lat": -7.460658923733267,
+          "lon": 121.4764498355984,
+          "deskripsi": "Gunung Inerie merupakan salah satu gunung berapi tertinggi di bumi Flores. Gunung ini terakhir kali meletus pada tahun 1970 dan mempunyai ketinggian 2.245 meter di atas permukaan laut. Tekstur rangkaian gunung yang bergelombang serta lembahnya yang bervariasi menghadirkan pesona unik tersendiri.Gunung eksotis ini terletak di Kabupaten Bajawa, Kabupaten Ngada, Pulau Flores, Nusa Tenggara Timur. Arti nama dari Gunung Inerie itu diambil dari kata ine yang berarti ibu dan rie yang berarti cantik.\nJadi apabila diartikan, Gunung Inerie adalah ibu yang cantik. Dari puncak Gunung Inerie kamu dapat melihat pemandangan yang menakjubkan.",
+          "jalur_pendakian": "Watumeze",
+          "info_gunung": "Nama: Gunung Inerie\nKetinggian: 2.245 mdpl\nLokasi: NTT.\nTipe: Gunung Stratovolcano"
+        }
+      ]
+    },
+    {
       "lokasi": "Sulawesi Selatan",
       "nama_gunung": [
         {
           "nama": "Gunung Latimojong",
           "image_gunung": "https://assets-a1.kompasiana.com/items/album/2019/07/14/1-5d2ab341097f36583546ab92.jpg",
-          "lokasi": "LSulawesi Selatan",
+          "lokasi": "Sulawesi Selatan",
           "lat": -3.4450112,
           "lon": 120.0709216,
           "deskripsi": "Gunung Latimojong adalah satu nama gunung di Kabupaten Enrekang, Sulawesi Selatan, Indonesia. Gunung Latimojong berada di tengah-tengah Sulawesi Selatan. Sebagian besar pengunungan ini terletak di daerah Kabupaten Enrekang.\nGunung Latimojong merupakan gunung yang tertinggi di Sulawesi Selatan dengan ketinggian 3.478 meter, puncaknya yang bernama Rante Mario.",
           "jalur_pendakian": "Rante Lemo\nKarangan",
-          "info_gunung": "Nama: Gunung Latimojong\nKetinggian: 3.478 mdpl\nLokasi: Sulawesi\nTipe: Gunung Non-Aktif"
+          "info_gunung": "Nama: Gunung Latimojong\nKetinggian: 3.478 mdpl\nLokasi: Sulawesi Selatan\nTipe: Gunung Non-Aktif"
         }
       ]
     },
