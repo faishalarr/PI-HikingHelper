@@ -3,10 +3,12 @@ package com.example.HikingHelperPI.activities
 import android.app.Activity
 import android.content.Intent
 import android.graphics.Color
+import android.media.MediaPlayer
 import android.os.Build
 import android.os.Bundle
 import android.view.View
 import android.view.WindowManager
+import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -22,6 +24,7 @@ import java.util.*
 import com.example.HikingHelperPI.activities.*
 import com.denzcoskun.imageslider.ImageSlider
 import com.denzcoskun.imageslider.models.SlideModel
+import kotlinx.android.synthetic.main.toolbar_main.*
 import kotlin.collections.ArrayList
 
 
@@ -30,16 +33,24 @@ class MainActivity : AppCompatActivity() {
     var modelMain: MutableList<ModelMain> = ArrayList()
     lateinit var mainAdapter: MainAdapter
 
+    private lateinit var btnplay : Button
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        btnplay=findViewById(R.id.btnsuara)
+        var mMediaPlayer: MediaPlayer? = MediaPlayer.create(this,R.raw.intro)
+
 
         //image slider
         val daftargmbr = ArrayList<SlideModel>()
 
-        daftargmbr.add(SlideModel("https://images.bisnis-cdn.com/posts/2019/08/12/1135593/semeru21.jpg","Gunung Semeru"))
-        daftargmbr.add(SlideModel("https://mmc.tirto.id/image/2021/05/06/antarafoto-aktivitas-gunung-merapi-060521-afa-4_ratio-16x9.jpg","Gunung Merapi"))
-        daftargmbr.add(SlideModel("https://ksmtour.com/media/images/articles/puncak_jaya__sudirman_range__papua__indonesia.jpg","Gunung Jaya Wijaya"))
+        daftargmbr.add(SlideModel("https://images.bisnis-cdn.com/posts/2019/08/12/1135593/semeru21.jpg",
+            "Gunung Semeru"))
+        daftargmbr.add(SlideModel("https://mmc.tirto.id/image/2021/05/06/antarafoto-aktivitas-gunung-merapi-060521-afa-4_ratio-16x9.jpg",
+            "Gunung Merapi"))
+        daftargmbr.add(SlideModel("https://ksmtour.com/media/images/articles/puncak_jaya__sudirman_range__papua__indonesia.jpg",
+            "Gunung Jaya Wijaya"))
 
         val imgSlider = findViewById<ImageSlider>(R.id.imgslide)
         imgSlider.setImageList(daftargmbr)
@@ -74,6 +85,10 @@ class MainActivity : AppCompatActivity() {
         fabBantuan.setOnClickListener {
             val intent = Intent(this@MainActivity, BantuanActivity::class.java)
             startActivity(intent)
+        }
+        btnplay.setOnClickListener{
+            mMediaPlayer!!.isLooping = false
+            mMediaPlayer?.start()
         }
 
         //method get data nama gunung

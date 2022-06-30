@@ -11,13 +11,13 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.HikingHelperPI.R
 import com.example.HikingHelperPI.adapter.ViewPagerAdapter
 import kotlinx.android.synthetic.main.activity_detail_peralatan.toolbar
-import kotlinx.android.synthetic.main.activity_peralatan.*
+import kotlinx.android.synthetic.main.activity_tips.*
 
 class TipsActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_peralatan)
+        setContentView(R.layout.activity_tips)
 
         //set transparent statusbar
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {

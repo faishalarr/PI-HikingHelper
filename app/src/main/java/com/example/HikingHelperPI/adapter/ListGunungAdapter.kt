@@ -6,8 +6,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
-import android.widget.Filter
-import android.widget.Filterable
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
@@ -17,10 +15,9 @@ import com.example.HikingHelperPI.model.ModelGunung
 import com.bumptech.glide.Glide
 import com.example.HikingHelperPI.adapter.ListGunungAdapter.ViewHolder
 import kotlinx.android.synthetic.main.list_item_gunung.view.*
-import java.util.*
 
 
-//revisi START
+
 
 class ListGunungAdapter(
     private val context: Context?,
@@ -32,18 +29,18 @@ class ListGunungAdapter(
         return ViewHolder(view)
     }
 
-    override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val data = modelGunung[position]
+        override fun onBindViewHolder(holder: ViewHolder, position: Int) {
+            val data = modelGunung[position]
 
-        if (context != null) {
-            Glide.with(context!!)
-                .load(data.ImageGunung)
-                .into(holder.listimageGunung)
-        }
+            if (context != null) {
+                Glide.with(context!!)
+                    .load(data.ImageGunung)
+                    .into(holder.listimageGunung)
+            }
 
 
-        holder.listNamaGunung.text = data.NamaGunung
-        holder.listLokasiGunung.text = data.LokasiGunung
+            holder.listNamaGunung.text = data.NamaGunung
+            holder.listLokasiGunung.text = data.LokasiGunung
 
         holder.cvListGunung.setOnClickListener {
             val intent = Intent(context, DetailGunungActivity::class.java)

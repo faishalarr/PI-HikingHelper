@@ -5,7 +5,6 @@ import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
@@ -47,12 +46,10 @@ class MainAdapter(
     class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         var cvListLokasi: CardView
         var tvLokasi: TextView
-        var imageLokasi: ImageView
 
         init {
             cvListLokasi = itemView.cvListLokasi
             tvLokasi = itemView.tvLokasi
-            imageLokasi = itemView.imageLokasi
         }
     }
 

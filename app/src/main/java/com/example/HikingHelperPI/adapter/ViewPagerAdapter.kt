@@ -25,7 +25,7 @@ class ViewPagerAdapter(fragmentManager: FragmentManager) : FragmentStatePagerAda
         var title = ""
         when (position) {
             0 -> title = "Peralatan"
-            1 -> title = "Tips"
+            1 -> title = "Video"
         }
         return title
     }
