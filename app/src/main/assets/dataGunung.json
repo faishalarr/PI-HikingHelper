@@ -156,6 +156,216 @@
       ]
     },
     {
+      "lokasi": "Jawa Barat",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Cikuray",
+          "image_gunung": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mount_Cikuray_from_Cisurupan.JPG/800px-Mount_Cikuray_from_Cisurupan.JPG",
+          "lokasi": "Jawa Barat",
+          "lat": -7.3224135,
+          "lon": 107.8569654,
+          "deskripsi": "Gunung Cikuray adalah gunung tertinggi keempat di jawa barat setelah gunung Gede, Pangrango dan Ciremai. Secara geografis gunung Cikuray terletak di sebelah selatan provinsi jawa barat tepatnya di kabupaten Garut, dan berada di perbatasan kecamatan Bayongbong, Cikajang, dan Dayeuh Manggung. Gunung ini memiliki ketinggian 2.821 mdpl (meter di atas permukaan laut).\nKabupaten Garut terkenal sebagai daerah yang dingin dan banyak wisata gunungnya termasuk gunung Cikuray. Bagi para pendaki yang memiliki waktu liburan panjang atau pendaki dari luar provinsi biasanya melakukan pendakian gunung Cikuray sekaligus gunung guntur atau papandayan karena memang letaknya berdekatan.",
+          "jalur_pendakian": "Jalur Cikajang\nJalur Bayongbong\nJalur Dayeuhmanggung",
+          "info_gunung": "Nama: Gunung Cikuray\nKetinggian: 2.821 mdpl\nLokasi: Kabupaten Garut, Provinsi Jawa Barat\nTipe: Gunung Berapi"
+        },
+        {
+          "nama": "Gunung Ciremai",
+          "image_gunung": "https://mounture.com/wp-content/uploads/2020/01/20191212_171330-01.jpeg",
+          "lokasi": "Jawa Barat",
+          "lat": -6.8932063,
+          "lon": 108.4034338,
+          "deskripsi": "Gunung Ciremai atau Ceremai adalah salah satu gunung yang memiliki ketinggian di atas 3000 mdpl yang terletak di 3 kabupaten yakni Kabupaten Cirebon, Kabupaten Kuningan dan Kabupaten Majalengka, Provinsi Jawa Barat. Gunung api ini memiliki ketinggian 3.078 mdpl. Gunung Ciremai merupakan gunung tertinggi di Jawa Barat.\nAsal nama Ciremai atau Ceremai adalah dari kata tumbuhan bernama Cereme yaitu sejenis tumbuhan perdu gunung. Kemudian karena masyarakat Jawa Barat biasanya menamakan suatu tempat dengan awalan “ci” maka dinamakanlah “Ciremai”.",
+          "jalur_pendakian": "Palutungan\nLinggarjati\nApuy\nPadabeunghar",
+          "info_gunung": "Nama: Gunung Ciremai\nKetinggian: 3.078 mdpl\nLokasi: Cirebon, Kuningan dan Majalengka\nLetusan terakhir: 1938\nPengelola: Taman Nasional Gunung Ciremai\nWebsite: http://tngciremai.com\nSpot alam: Hutan, Sabana, Bukit, Kawah\nPuncak: Puncak Sunan Mataram"
+        },
+        {
+          "nama": "Gunung Gede",
+          "image_gunung": "https://cianjurkab.go.id/wp-content/uploads/2018/12/gununggede-952x637.jpg",
+          "lokasi": "Jawa Barat",
+          "lat": -6.7878168,
+          "lon": 106.9788904,
+          "deskripsi": "Gunung Gede merupakan sebuah gunung yang berada di Pulau Jawa, Indonesia. Gunung Gede berada dalam ruang lingkup Taman Nasional Gede Pangrango, yang merupakan salah satu dari lima taman nasional yang pertama kali diumumkan di Indonesia pada tahun 1980. Gunung ini berada di wilayah tiga kabupaten yaitu Kabupaten Bogor, Cianjur dan Sukabumi, dengan ketinggian 1.000 - 3.000 mdpl.",
+          "jalur_pendakian": "Jalur Cibodas\nJalur Gunung Putri,\nJalur Selabintana.",
+          "info_gunung": "Nama: Gunung Gede\nKetinggian: 2.958 mdpl\nLokasi: Bogor, Cianjur, Sukabumi, Jawa Barat\nSumber air: telga biru, air panas, alun-alun surya kencana\nTipe: Stratovolcano (aktif)"
+        },
+        {
+          "nama": "Gunung Guntur",
+          "image_gunung": "https://assets.pikiran-rakyat.com/crop/0x261:1080x912/x/photo/2019/12/18/1784006808.jpg",
+          "lokasi": "Jawa Barat",
+          "lat": -7.153546,
+          "lon": 107.8452636,
+          "deskripsi": "Selain Gunung Papandayan dan Cikuray, Gunung lain di Garut yang juga menjadi kesukaan pendaki di Jawa Barat dan sekitarnya adalah Gunung Guntur. Gunung ini memiliki ketinggian 2.249 mdpl dan punya pemandangan yang tak kalah indah dengan gunung-gunung lainnya.\nWalau tingginya tidak sampai 3.000 mdpl, namun pendakian ke gunung ini terkenal cukup sulit karna medan yang terjal serta tidak adanya jalur khusus menuju ke puncak. Apalagi jika cuaca sedang berkabut, track pendakian akan semakin menyulitkan para pendaki. Namun, apa yang akan kita dapatkan begitu sampai di puncak sangatlah spektakuler.",
+          "jalur_pendakian": "Jalur Curug Citiis",
+          "info_gunung": "Nama: Gunung Guntur\nKetinggian: 2.249 mdpl\nLokasi: Jawa Barat\nTipe: Gunung kecil bukan api\nKondisi: perkebunan, hutan, kabut\nSpot alam: perkebunan\nFlora: pohon akasia, pinus\nFauna: berbagai macam burung\nSumber air: ada"
+        },
+        {
+          "nama": "Gunung Malabar",
+          "image_gunung": "http://pendaki.id/wp-content/uploads/2019/07/Gambar-Gunung-Malabar.jpg",
+          "lokasi": "Jawa Barat",
+          "lat": -7.128601,
+          "lon": 107.632769,
+          "deskripsi": "Gunung Malabar adalah nama rangkaian pegunungan yang ada di wilayah selatan Bandung. Rangkaian pegunungan ini memiliki beberapa gunung. Antara lain Gunung Putang serta Gunung Haruman. Malabar sendiri adalah nama salah satu puncak di rangkaian Pegunungan Malabar.\nGunung yang paling terkenal di Pegunungan Malabar adalah Gunung Haruman dengan puncak yang dikenal dengan nama Puncak Besar. Titik paling tinggi di gunung ini adalah 2.343 mdpl. Lokasinya yang masuk masuk wilayah Bandung membuat Pegunungan Malabar menjadi salah satu gunung yang disukai para pendaki.",
+          "jalur_pendakian": "Mekarsari\nPuntang",
+          "info_gunung": "Nama: Gunung Malabar\nKetinggian: 2.343 mdpl\nLokasi: Jawa Barat\nTipe: Gunung kecil bukan api\nKondisi: perkebunan, hutan, kabut\nSpot alam: perkebunan\nFlora: pohon akasia, pinus\nFauna: berbagai macam burung\nSumber air: ada"
+        },
+        {
+          "nama": "Gunung Pangrango",
+          "image_gunung": "https://travelspromo.com/wp-content/uploads/2019/04/Taman-Nasional-Gunung-Gede-Pangrango.-Foto-Gmap-Abhi-Supryandi-e1556503633354.jpg",
+          "lokasi": "Jawa Barat",
+          "lat": -6.7708833,
+          "lon": 106.9599363,
+          "deskripsi": "Gunung Pangrango merupakan sebuah gunung yang terdapat di pulau Jawa, Indonesia. Gunung Pangrango mempunyai ketinggian setinggi 3.019 meter dari permukaan laut. Puncaknya dinamakan Puncak Mandalawangi. Puncak Mandalawangi juga merupakan titik pertemuan batas tiga kabupaten yaitu Kabupaten Bogor, Kabupaten Cianjur dan Kabupaten Sukabumi.\nGunung Pangrango merupakan gunung tertinggi kedua di Jawa Barat setelah Gunung Ceremai. Gunung Pangrango terletak persis bersebelahan dengan Gunung Gede dan berada dalam kawasan Taman Nasional Gede Pangrango.",
+          "jalur_pendakian": "Jalur Cibodas\nJalur Gunung Putri\nJalur Selabintana",
+          "info_gunung": "Nama: Gunung Gede\nKetinggian: 3.019 mdpl\nLokasi: Bogor, Cianjur, Sukabumi, Jawa Barat\nSumber air: telga biru, air panas, alun-alun surya kencana\nTipe: Stratovolcano (aktif)"
+        },
+        {
+          "nama": "Gunung Papandayan",
+          "image_gunung": "https://indonesiakaya.com/wp-content/uploads/2020/10/1__IMG_9388_Kawasan_Hutan_Mati_merupakan_salah_satu_bagian_eksotis_dari_Gunung_Papandayan.jpg",
+          "lokasi": "Jawa Barat",
+          "lat": -7.3190968,
+          "lon": 107.7276874,
+          "deskripsi": "Gunung Papandayan berada di Kecamatan Cisurupan, Kabupaten Garut, Jawa Barat. Di gunung ini terdapat beberapa kawah terkenal antara lain Kawah Baru, Kawah Mas, Kawah Nangklak, dan Kawah Manuk. Gunung Papandayan memiliki keanekaragaman flora dan fauna seperti edelweiss, puspa, pohon suagi, trenggiling, kijang, lutung, dan lain-lain. Gunung ini terdapat kawah yang lumayan memberikan efek panas bagi tubuh, namun kawah panas itu tidak mengurangi jumlah banyaknya pengunjung yang ingin berkunjung ke gunung papandayan ini.\nDaerah yang paling banyak menarik wisatawan salah satunya adalah Kawah Papandayan. Di kawah tersebut terdapat lubang-lubang yang bisa menghasilkan suara-suara unik. Gunung yang sudah beberapa kali meletus ini memiliki ketinggian 2.665 meter atau 8.740 kaki.",
+          "jalur_pendakian": "Cisurupan\nPangalengan",
+          "info_gunung": "Nama: Gunung Papandayan\nKetinggian: 2.665 mdpl\nLokasi: Jawa Barat\nTipe: Gunung Stratovolcano"
+        },
+        {
+          "nama": "Gunung Patuha",
+          "image_gunung": "https://kitingfield.com/wp-content/uploads/2019/10/DSCF9979.jpg",
+          "lokasi": "Jawa Barat",
+          "lat": -7.1640912,
+          "lon": 107.3990455,
+          "deskripsi": "Nama Gunung Patuha mungkin masih sedikit asing. Namun, jika kita sebutkan Kawah Putih semua pasti langsung tahu. Yap, Kawah Putih adalah bagian dari Gunung Patuha yang berada di Bandung. Pesona Kawah Putih telah dikenal luas di Indonesia.\nNamun, jangan lupa bahwa kawah tersebut merupakan bagian dari Gunung Patuha. Asal muasal kawah cantik ini adalah dari letusan Gunung Patuha tempo dulu. Tentu akan sangat menarik jika melakukan pendakian Gunung Patuha lalu menyaksikan indahnya Kawah Putih dari ketinggian.",
+          "jalur_pendakian": "Rancabali",
+          "info_gunung": "Nama: Gunung Patuha\nLokasi: Jawa Barat\nKetinggian: 2.386 mdpl\nTipe: Gunung-Aktif"
+        },
+        {
+          "nama": "Gunung Rakutak",
+          "image_gunung": "https://nyero.id/wp-content/uploads/2017/11/Gunung-Rakutak-758x492.png",
+          "lokasi": "Jawa Barat",
+          "lat": -7.1496392,
+          "lon": 107.7308723,
+          "deskripsi": "Nama gunung Rakutak belum terlalu terkenal, hingga beberapa waktu lalu banyak yang mengunggah foto-foto keren dari gunung yang nggak terlalu tinggi ini, dan sukses membuat Rakutak menjadi salah satu destinasi favorit pendaki sekitar Jawa Barat. Gunung setinggi 1.957 mdpl ini punya panorama keindahan alam yang super keren, terutama di jembatan sirotol mustaqimnya yang terkenal. Dari gunung ini, kamu dapat melihat pemandangan gunung-gunung indah di sekitar kota Bandung.",
+          "jalur_pendakian": "Sukarame",
+          "info_gunung": "Nama: Gunung Rakutak\nKetinggian: 1.957 mdpl\nLokasi: Jawa Barat\nTipe: Gunung kecil bukan api\nKondisi: perkebunan, hutan, kabut\nSumber air: ada"
+        },
+        {
+          "nama": "Gunung Salak",
+          "image_gunung": "https://imgsrv2.voi.id/ouC3N0Qug2QKl_2MhGzDaFbagCbRkXWYuhpwouOTeKw/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8zNDQwNy8yMDIxMDIyMDE1NDUtbWFpbi5qcGc.jpg",
+          "lokasi": "Jawa Barat",
+          "lat": -6.7160803,
+          "lon": 106.7306358,
+          "deskripsi": "Gunung Salak adalah gunung impian bagi mereka yang benar-benar memiliki jiwa pendaki sejati. Gunung ini begitu menantang karna sangat terkenal dengan suasana mistisnya. Butuh nyali untuk melakukan pendakian ke gunung yang satu ini.\nGunung Salak terletak diantara Kabupaten Sukabumi dan Bogor. Gunung ini merupakan bagian dari Taman Nasional Gunung Halimun-Salak. Nama gunung ini sendiri berasal dari bahasa Sansekerta yang berarti perak. Walau tidak terlalu tinggi (2.221 mdpl), pendakian Gunung Salak terkenal cukup sulit karna medannya yang tidak ramah untuk pendaki. Salah satu jalur pendakian ke Gunung Salak adalah melalui jalur Cidahu, Sukabumi. Jalur pendakian ke Gunung Salak akan melewati beberapa makam yang konon cukup keramat jika ingin melakukan pendakian ke Gunung Salak pastikan persiapannya benar-benar maksimal.",
+          "jalur_pendakian": "Cidahu\nCuruk Nangka\nCimelati",
+          "info_gunung": "Nama: Gunung Salak\nKetinggian: 2.221 mdpl\nLokasi: Jawa Barat\nTipe: Gunung Aktif\nKondisi: perkebunan, hutan, kabut\nSpot alam: perkebunan\nFlora: pohon akasia, pinus\nFauna: berbagai macam burung\nSumber air: ada"
+        }
+      ]
+    },
+    {
+      "lokasi": "Jawa Tengah",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Andong",
+          "image_gunung": "https://telusuri.id/wp-content/uploads/2019/10/01-sumbing-sindoro-dieng-gunung-andong.jpg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.3883758,
+          "lon": 110.3686299,
+          "deskripsi": "Gunung Andong adalah gunung kecil yang terletak di kabupaten Magelang, Jawa Tengah. Gunung ini belum pernah mempunyai aktivitas meletus. Gunung Andong lebih tepatnya terletak di Girirejo, kecamatan Ngablak, kabupaten Magelang dan berketinggian sekitar 1.726 mdpl.\nGunung Andong berpenampakkan seperti punggung sapi, melengkung naik turun. Gunung ini sering dikunjungi oleh para pendaki untuk hunting foto. Tidak jarang juga didaki untuk camping.",
+          "jalur_pendakian": "Girirejo",
+          "info_gunung": "Nama: Gunung Andong\nKetinggian: 1.726 mdpl\nLokasi: Magelang\nTipe:Gunung kecil bukan api"
+        },
+        {
+          "nama": "Gunung Lawu",
+          "image_gunung": "https://asset.kompas.com/crops/heSaiwMi47mNt9IBKYLGgR3lgMc=/0x0:780x520/750x500/data/photo/2019/06/21/3507694318.jpg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.6276241,
+          "lon": 111.193658,
+          "deskripsi": "Gunung Lawu adalah gunung yang terletak di perbatasan provinsi Jawa Tengah dan Jawa Timur, tepatnya di daerah Tawangmangu dan Cemorosewu. Gunung Lawu adalah gunung api yang mati atau istirahat. Tercatat gunung ini pernah meletus pada tahun 1885. Gunung Lawu banyak diminati oleh para pendaki karena pemandangan yang eksotis dan juga banyak memiliki spot-spot bagus seperti sumber air, kawah, sabana, bukit, kabut, dan satu yang paling menarik yakni adanya rumah warga alias pemukiman warga di puncaknya. Dan pemukiman tersebut diklaim sebagai pemukiman tertinggi di Jawa.\nGunung Lawu memiliki tiga puncak yakni puncak Hargo Dalem, Hargo Dumiling dan Hargo Dumilah. Puncak Hargo Dumilah yang tertinggi yakni pada ketinggian 3.265 mdpl.",
+          "jalur_pendakian": "Cemoro Kandang\nCemoro Sewu",
+          "info_gunung": "Nama: Gunung Lawu\nKetinggian: 3.265 mdpl\nLokasi: Magetan, Tawangmangu, Cemorosewu\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 1885"
+        },
+        {
+          "nama": "Gunung Merapi",
+          "image_gunung": "https://mmc.tirto.id/image/2021/05/06/antarafoto-aktivitas-gunung-merapi-060521-afa-4_ratio-16x9.jpg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.540626,
+          "lon": 110.4427796,
+          "deskripsi": "Gunung Merapi adalah gunung api teraktif di Indonesia. Gunung Merapi dikategorikan dalam gunung berapi tipe strato atau masih aktif. Tercatat dalam catatan modern bahwa gunung Merapi mengalami erupsi atau letusan setiap 2-5 tahun sekali. Tahun 2010 adalah pembuktian betapa ganasnya erupsi gunung Merapi di sepuluh tahun terakhir ini. Gunung Merapi tercatat sudah meletus sebanyak 68 kali sejak tahun 1548.\nGunung Merapi selain masuk dalam kategori gunung api paling aktif juga masuk dalam kategori gunung api paling berbahaya. Karena jika gunung ini meletus maka akibatnya akan sangat fatal mengingat sekeliling gunung Merapi adalah pemukiman padat. Dari sisi barat ada kabupaten Magelang, sebelah selatan ada kabupaten Sleman dan kota Yogyakarta, dari sisi timur ada kabupaten Boyolali, dan sisi tenggara kabupaten Klaten.",
+          "jalur_pendakian": "Jalur Selo\nKinaharjo",
+          "info_gunung": "Nama: Gunung Merapi\nKetinggian: 2930 mdpl\nLokasi: Klaten, Boyolali, Magelang, Sleman,Yogyakarta.\nPengelola: Taman Nasional Gunung Merapi\nTipe: Gunung berapi strato\nLetusan terakhir: 2010\nSumber air: di jalur pendakian Selo\nSungai: Serang, Cemoro, Pepe dan Gandul\nPuncak: puncak Merapi\nWebsite: http://www.tngunungmerapi.org"
+        },
+        {
+          "nama": "Gunung Merbabu",
+          "image_gunung": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/10/merbabu-.jpg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.4558213,
+          "lon": 110.4379029,
+          "deskripsi": "Gunung Merbabu adalah salah satu gunung paling indah di provinsi Jawa Tengah tepatnya di kabupaten Magelang (Barat), Boyolali (Timur), Salatiga (Selatan), dan Semarang (Utara). Jalur pendakian gunung Merbabu cocok sekali untuk para pendaki pemula. Dari mulai jalan datar, bergelombang, agak naik, dan menanjak sampai menanjak sekali ada di jalur pendakian gunung Merbabu. Ditambah lagi hutan homogen, sabana, dan bukit-bukit rumput menghiasi di setiap perjalanan.\nGunung Merbabu adalah gunung yang pernah aktif. Tercatat pernah meletus pada tahun 1560 dan tahun 1797. Oleh karena itu gunung Merbabu disebut juga gunung tidur karena sudah tidak meletus lagi. Ketinggian gunung Merbabu yakni 3.142 mdpl atau sekitar 10.630 kaki. Untuk ketinggian tersebut gunung Merbabu sudah tergolong gunung dengan ketinggian di atas rata-rata. Namun bagi para pendaki pemula jangan kawatir karna ketinggian tersebut akan dibalas dengan pemandangan di sana.",
+          "jalur_pendakian": "Selo (dari Boyolali)\nKopeng (dari Salatiga)\nWekas (dari Magelang)",
+          "info_gunung": "Nama: Gunung Merbabu\nKetinggian: 3.142 mdpl\nLokasi: Magelang, Semarang, Boyolali, Salatiga, Jawa Tengah\nLetusan terakhir: 1560 dan 1797\nSumber air: Ada di jalur Wekas (Pos 2)\nPuncak: puncak Syarif, Puncak Kenteng Songo/Tianggulasi"
+        },
+        {
+          "nama": "Gunung Prau",
+          "image_gunung": "https://genpi.id/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-23-at-6.17.05-PM-1024x575.jpeg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.1970403,
+          "lon": 109.9291006,
+          "deskripsi": "Gunung Prau adalah gunung kecil yang menjadi tujuan paling favorit para pendaki di Indonesia khususnya pulau Jawa sejak 2014. Puncak gunung Prau ini diklaim memiliki tempat terbaik se-asia tenggara untuk melihat matahari terbit. Gunung Prau terletak di dataran tinggi Dieng, Wonosobo, Jawa Tengah. Sejak 2014 Gunung Prau didatangi banyak sekali para pendaki yang ingin melihat langsung penampakkan sunrise dari Gunung Prau tersebut.",
+          "jalur_pendakian": "Patak Banteng",
+          "info_gunung": "Nama: Gunung Prau\nKetinggian: 2.565 mdpl\nLokasi: Wonosobo, Temanggung, Jawa Tengah\nTipe: Gunung kecil bukan api"
+        },
+        {
+          "nama": "Gunung Rogojembangan",
+          "image_gunung": "http://pendaki.id/wp-content/uploads/2019/07/Gambar-Gunung-Rogojembangan.jpg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.1768298,
+          "lon": 109.709507,
+          "deskripsi": "Gunung Rogojembangan terletak di perbatasan kabupaten Banjarnegara dengan kabupaten Pekalongan, Jawa Tengah. Gunung Rogojembangan memiliki ketinggian sekitar 2117 mdpl (meter di atas permukaan laut). Gunung ini adalah gunung kecil. Beberapa desa yang berdiri di sekitar kaki Gunung Rogojembangan antara lain: Gumelem, Semego, Balun.",
+          "jalur_pendakian": "Gumelem\nSemego",
+          "info_gunung": "Nama: Gunung Rogojembangan\nKetinggian: 2.117 mdpl\nLokasi: Pekalongan, Banjarnegara\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Sindoro",
+          "image_gunung": "https://mytrip123.com/wp-content/uploads/2016/03/Sindoro.jpg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.3014343,
+          "lon": 109.9926929,
+          "deskripsi": "Gunung Sindoro disebut juga dengan Gunung Sindara atau Sundoro atau Sendoro. Gunung Sindoro termasuk dalam kategori gunung stratovolcano alias gunung tidur dan sewaktu-waktu bisa erupsi. Erupsi terakhir adalah pada 1906 dan semenjak itu hanya terjadi peningkatan aktivitas saja. Gunung Sindoro termasuk dalam gunung yang sensitif terhadap kondisi alam. Tidak jarang gunung ini ditutup untuk pendakian akibat cuaca tidak bersahabat. Selain rentan terhadap cuaca, gunung Sindoro juga termasuk gunung yang dikeramatkan layaknya gunung Lawu. Masyarakat kaki gunung tidak jarang pula menutup pendakian menuju puncak karena faktor tertentu berkaitan dengan tradisi khususnya jika tanggal 1 Syuro.\nGunung Sindoro terletak di terletak di kabupaten Wonosobo (Barat) dan kabupaten Temanggung (Timur). Seperti layaknya gunung Merapi-Merbabu, gunung Sindoro juga memiliki saudara yakni Gunung Sumbing. Ada hal unik pada dua gunung kembar ini yakni sebuah pemandangan yang melegenda.",
+          "jalur_pendakian": "Kledung (Temanggung)\nSikatok/Sigedang-Tambi (Wonosobo) tercepat\nSibajak (Temanggung)\nJlumprit (Dusun Katekan)",
+          "info_gunung": "Nama: Gunung Sindoro\nKetinggian: 3.136 mdpl\nLokasi: Wonosobo, Temanggung Jawa Tengah\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 1906"
+        },
+        {
+          "nama": "Gunung Slamet",
+          "image_gunung": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gunung_Slamet_dari_Kr_Salam.jpg/1200px-Gunung_Slamet_dari_Kr_Salam.jpg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.2407235,
+          "lon": 109.2108887,
+          "deskripsi": "Gunung Slamet adalah gunung tertinggi di Jawa Tengah dan gunung tertinggi kedua di pulau Jawa setelah gunung Semeru. Gunung Slamet memiliki ketinggian 3.428 mdpl. Gunung Slamet adalah gunung api yang masih aktif. Gunung ini juga dikatakan sebagai gunung yang membelah pulau Jawa karena berdiri di 5 kabupaten yakni Kabupaten Brebes, Banyumas, Purbalingga, Kabupaten Tegal, dan Kabupaten Pemalang, Provinsi Jawa Tengah. Aktivitas terakhir gunung Slamet adalah pada bulan Maret 2014 dan hingga awal 2015 gunung ini masih berstatus waspada.\nJalur pendakian gunung Slamet terkenal berat. Ekologi pada gunung Slamet sebagian besar adalah hutan. Di kaki gunung adalah perkebunan yang subur sehingga banyak masyarakat kaki gunung Slamet hidup berkecukupan dengan limpahan kekayaan alam. Selain kekayaan alam yang melimpah gunung Slamet juga dikenal gunung yang memiliki background penuh mitos.",
+          "jalur_pendakian": "Baturaden (Purwokerto) jalur resmi\nBambangan (Purbalingga) jalur resmi\nKaliwadas (Brebes) jalur resmi\nDukuhliwung (Tegal)\nGuci (Tegal)\nKaligua (Bumiayu)",
+          "info_gunung": "Nama: Gunung Slamet\nKetinggian: 3.428 mdpl\nLokasi: Kabupaten Brebes, Banyumas, Purbalingga, Tegal, dan Pemalang (Jawa Tengah)\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 2014\nSumber air: Sumur Penganten (jalur Kaliwadas)\nPuncak: Puncak Surono\nKawah: Segoro Wedi"
+        },
+        {
+          "nama": "Gunung Sumbing",
+          "image_gunung": "https://cdn.idntimes.com/content-images/community/2021/04/165979415-454802692424765-4742859987778341157-n-1-07a4f29dba4b014075e472810bb49bf0-0088385869bbfc4e3e13f19eec096df2.jpg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.3843089,
+          "lon": 110.0707907,
+          "deskripsi": "Gunung Sumbing adalah gunung api yang sudah lama sekali tidak meletus atau erupsi. Gunung ini terakhir kali erupsi adalah pada tahun 1730. Gunung Sumbing terletak di Jawa Tengah yakni masuk dalam kabupaten Magelang, Temanggung, dan Wonosobo. Gunung Sumbing sudah tidak aktif lagi namun di puncaknya masih terdapat kawah.\nGunung Sumbing memiliki ketinggian 3.371 mdpl. Kondisi alam di sekitar kaki gunung Sumbing sangat subur sehingga banyak dimanfaatkan masyarakat setempat sebagai perkebunan.",
+          "jalur_pendakian": "Jalur Garung\nJalur Cepit Parakan\nJalur Bowongso\nJalur Mangli",
+          "info_gunung": "Nama: Gunung Sumbing\nKetinggian: 3.371 mdpl\nLokasi: Wonosobo, Temanggung, Magelang\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 1730\nPuncak: Puncak Buntu dan Puncak Sejati"
+        },
+        {
+          "nama": "Gunung Ungaran",
+          "image_gunung": "https://3.bp.blogspot.com/-ppg1KhqmSwc/WJKmG8AfqJI/AAAAAAAAPZw/pIlFf3ZqgsAfc_Y9FuFj2KbBFUYGrswfgCLcB/s1600/cUpcb8tZ.jpeg",
+          "lokasi": "Jawa Tengah",
+          "lat": -7.1833418,
+          "lon": 110.3455274,
+          "deskripsi": "Gunung Ungaran adalah gunung api dengan ketinggian 2.050 mdpl yang terletak di kabupaten Semarang. Gunung ini memiliki tiga puncak: Gendol, Botak, dan Ungaran. Puncak tertinggi adalah Ungaran.\nDi lereng gunung Ungaran terdapat situs arkeologi berupa Candi Gedongsongo (Bahasa Jawa: gedong = gedung, songo = sembilan). Terdapat pula beberapa air terjun (curug), di antaranya Curug Semirang dan Curug Lawe. Juga terdapat gua, yang terkenal dengan nama Gua Jepang. Gua ini terletak 200 meter sebelum puncak, tepatnya di sekitar perkampungan Promasan (perkampungan para pemetik teh). Di sini terdapat pula reruntuhan bekas pemandian kuna.",
+          "jalur_pendakian": "Jalur Gedong Songo\nJalur Jimbaran\nMedini/Promosan",
+          "info_gunung": "Nama: Gunung Ungaran\nKetinggian: 2050 mdpl\nLokasi: Kabupaten Semarang (Jawa Tengah)\nTipe: Gunung berapi stratovolcanoss"
+        }
+      ]
+    },
+    {
       "lokasi": "Jawa Timur",
       "nama_gunung": [
         {
@@ -297,216 +507,6 @@
           "deskripsi": "Gunung Wilis adalah gunung yang sudah tidak aktif yang terletak di Jawa Timur. Gunung Wilis masuk dalam perbatasan enam kabupaten yakni Kediri, Tulungagung, Nganjuk, Madiun, Ponorogo, dan Trenggalek. Gunung Wilis memiliki ketinggian 2563 mdpl (meter di atas permukaan laut) .\nGunung Wilis terkenal dengan objek wisatanya berupa air terjun yakni Air Terjun Ironggolo, Air Terjun Dholo. Air terjun tersebut masuk dalam pengelolaan kabupaten Kediri.",
           "jalur_pendakian": "Kecamatan Mojo,\nKecamatan Semen,\nkabupaten Kediri (timur),\nKecamatan Sendang,\nKabupaten Tulungagung (selatan),\nKabupaten Nganjuk (utara),\nKabupaten Ponorogo,\nKabupaten Madiun (barat)",
           "info_gunung": "Nama: Gunung Wilis\nKetinggian: 2563 mdpl\nLokasi: Kediri, Tulungagung, Nganjuk, Madiun, Ponorogo dan Trenggalek\nTipe: Gunung non-Aktif\nKondisi: Hutan, Air terjun, Semak belukar, fauna, sumur, makam"
-        }
-      ]
-    },
-    {
-      "lokasi": "Jawa Tengah",
-      "nama_gunung": [
-        {
-          "nama": "Gunung Andong",
-          "image_gunung": "https://telusuri.id/wp-content/uploads/2019/10/01-sumbing-sindoro-dieng-gunung-andong.jpg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.3883758,
-          "lon": 110.3686299,
-          "deskripsi": "Gunung Andong adalah gunung kecil yang terletak di kabupaten Magelang, Jawa Tengah. Gunung ini belum pernah mempunyai aktivitas meletus. Gunung Andong lebih tepatnya terletak di Girirejo, kecamatan Ngablak, kabupaten Magelang dan berketinggian sekitar 1.726 mdpl.\nGunung Andong berpenampakkan seperti punggung sapi, melengkung naik turun. Gunung ini sering dikunjungi oleh para pendaki untuk hunting foto. Tidak jarang juga didaki untuk camping.",
-          "jalur_pendakian": "Girirejo",
-          "info_gunung": "Nama: Gunung Andong\nKetinggian: 1.726 mdpl\nLokasi: Magelang\nTipe:Gunung kecil bukan api"
-        },
-        {
-          "nama": "Gunung Lawu",
-          "image_gunung": "https://asset.kompas.com/crops/heSaiwMi47mNt9IBKYLGgR3lgMc=/0x0:780x520/750x500/data/photo/2019/06/21/3507694318.jpg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.6276241,
-          "lon": 111.193658,
-          "deskripsi": "Gunung Lawu adalah gunung yang terletak di perbatasan provinsi Jawa Tengah dan Jawa Timur, tepatnya di daerah Tawangmangu dan Cemorosewu. Gunung Lawu adalah gunung api yang mati atau istirahat. Tercatat gunung ini pernah meletus pada tahun 1885. Gunung Lawu banyak diminati oleh para pendaki karena pemandangan yang eksotis dan juga banyak memiliki spot-spot bagus seperti sumber air, kawah, sabana, bukit, kabut, dan satu yang paling menarik yakni adanya rumah warga alias pemukiman warga di puncaknya. Dan pemukiman tersebut diklaim sebagai pemukiman tertinggi di Jawa.\nGunung Lawu memiliki tiga puncak yakni puncak Hargo Dalem, Hargo Dumiling dan Hargo Dumilah. Puncak Hargo Dumilah yang tertinggi yakni pada ketinggian 3.265 mdpl.",
-          "jalur_pendakian": "Cemoro Kandang\nCemoro Sewu",
-          "info_gunung": "Nama: Gunung Lawu\nKetinggian: 3.265 mdpl\nLokasi: Magetan, Tawangmangu, Cemorosewu\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 1885"
-        },
-        {
-          "nama": "Gunung Merapi",
-          "image_gunung": "https://mmc.tirto.id/image/2021/05/06/antarafoto-aktivitas-gunung-merapi-060521-afa-4_ratio-16x9.jpg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.540626,
-          "lon": 110.4427796,
-          "deskripsi": "Gunung Merapi adalah gunung api teraktif di Indonesia. Gunung Merapi dikategorikan dalam gunung berapi tipe strato atau masih aktif. Tercatat dalam catatan modern bahwa gunung Merapi mengalami erupsi atau letusan setiap 2-5 tahun sekali. Tahun 2010 adalah pembuktian betapa ganasnya erupsi gunung Merapi di sepuluh tahun terakhir ini. Gunung Merapi tercatat sudah meletus sebanyak 68 kali sejak tahun 1548.\nGunung Merapi selain masuk dalam kategori gunung api paling aktif juga masuk dalam kategori gunung api paling berbahaya. Karena jika gunung ini meletus maka akibatnya akan sangat fatal mengingat sekeliling gunung Merapi adalah pemukiman padat. Dari sisi barat ada kabupaten Magelang, sebelah selatan ada kabupaten Sleman dan kota Yogyakarta, dari sisi timur ada kabupaten Boyolali, dan sisi tenggara kabupaten Klaten.",
-          "jalur_pendakian": "Jalur Selo\nKinaharjo",
-          "info_gunung": "Nama: Gunung Merapi\nKetinggian: 2930 mdpl\nLokasi: Klaten, Boyolali, Magelang, Sleman,Yogyakarta.\nPengelola: Taman Nasional Gunung Merapi\nTipe: Gunung berapi strato\nLetusan terakhir: 2010\nSumber air: di jalur pendakian Selo\nSungai: Serang, Cemoro, Pepe dan Gandul\nPuncak: puncak Merapi\nWebsite: http://www.tngunungmerapi.org"
-        },
-        {
-          "nama": "Gunung Merbabu",
-          "image_gunung": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2018/10/merbabu-.jpg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.4558213,
-          "lon": 110.4379029,
-          "deskripsi": "Gunung Merbabu adalah salah satu gunung paling indah di provinsi Jawa Tengah tepatnya di kabupaten Magelang (Barat), Boyolali (Timur), Salatiga (Selatan), dan Semarang (Utara). Jalur pendakian gunung Merbabu cocok sekali untuk para pendaki pemula. Dari mulai jalan datar, bergelombang, agak naik, dan menanjak sampai menanjak sekali ada di jalur pendakian gunung Merbabu. Ditambah lagi hutan homogen, sabana, dan bukit-bukit rumput menghiasi di setiap perjalanan.\nGunung Merbabu adalah gunung yang pernah aktif. Tercatat pernah meletus pada tahun 1560 dan tahun 1797. Oleh karena itu gunung Merbabu disebut juga gunung tidur karena sudah tidak meletus lagi. Ketinggian gunung Merbabu yakni 3.142 mdpl atau sekitar 10.630 kaki. Untuk ketinggian tersebut gunung Merbabu sudah tergolong gunung dengan ketinggian di atas rata-rata. Namun bagi para pendaki pemula jangan kawatir karna ketinggian tersebut akan dibalas dengan pemandangan di sana.",
-          "jalur_pendakian": "Selo (dari Boyolali)\nKopeng (dari Salatiga)\nWekas (dari Magelang)",
-          "info_gunung": "Nama: Gunung Merbabu\nKetinggian: 3.142 mdpl\nLokasi: Magelang, Semarang, Boyolali, Salatiga, Jawa Tengah\nLetusan terakhir: 1560 dan 1797\nSumber air: Ada di jalur Wekas (Pos 2)\nPuncak: puncak Syarif, Puncak Kenteng Songo/Tianggulasi"
-        },
-        {
-          "nama": "Gunung Prau",
-          "image_gunung": "https://genpi.id/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-23-at-6.17.05-PM-1024x575.jpeg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.1970403,
-          "lon": 109.9291006,
-          "deskripsi": "Gunung Prau adalah gunung kecil yang menjadi tujuan paling favorit para pendaki di Indonesia khususnya pulau Jawa sejak 2014. Puncak gunung Prau ini diklaim memiliki tempat terbaik se-asia tenggara untuk melihat matahari terbit. Gunung Prau terletak di dataran tinggi Dieng, Wonosobo, Jawa Tengah. Sejak 2014 Gunung Prau didatangi banyak sekali para pendaki yang ingin melihat langsung penampakkan sunrise dari Gunung Prau tersebut.",
-          "jalur_pendakian": "Patak Banteng",
-          "info_gunung": "Nama: Gunung Prau\nKetinggian: 2.565 mdpl\nLokasi: Wonosobo, Temanggung, Jawa Tengah\nTipe: Gunung kecil bukan api"
-        },
-        {
-          "nama": "Gunung Rogojembangan",
-          "image_gunung": "http://pendaki.id/wp-content/uploads/2019/07/Gambar-Gunung-Rogojembangan.jpg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.1768298,
-          "lon": 109.709507,
-          "deskripsi": "Gunung Rogojembangan terletak di perbatasan kabupaten Banjarnegara dengan kabupaten Pekalongan, Jawa Tengah. Gunung Rogojembangan memiliki ketinggian sekitar 2117 mdpl (meter di atas permukaan laut). Gunung ini adalah gunung kecil. Beberapa desa yang berdiri di sekitar kaki Gunung Rogojembangan antara lain: Gumelem, Semego, Balun.",
-          "jalur_pendakian": "Gumelem\nSemego",
-          "info_gunung": "Nama: Gunung Rogojembangan\nKetinggian: 2.117 mdpl\nLokasi: Pekalongan, Banjarnegara\nTipe: Gunung Non-Aktif"
-        },
-        {
-          "nama": "Gunung Sindoro",
-          "image_gunung": "https://mytrip123.com/wp-content/uploads/2016/03/Sindoro.jpg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.3014343,
-          "lon": 109.9926929,
-          "deskripsi": "Gunung Sindoro disebut juga dengan Gunung Sindara atau Sundoro atau Sendoro. Gunung Sindoro termasuk dalam kategori gunung stratovolcano alias gunung tidur dan sewaktu-waktu bisa erupsi. Erupsi terakhir adalah pada 1906 dan semenjak itu hanya terjadi peningkatan aktivitas saja. Gunung Sindoro termasuk dalam gunung yang sensitif terhadap kondisi alam. Tidak jarang gunung ini ditutup untuk pendakian akibat cuaca tidak bersahabat. Selain rentan terhadap cuaca, gunung Sindoro juga termasuk gunung yang dikeramatkan layaknya gunung Lawu. Masyarakat kaki gunung tidak jarang pula menutup pendakian menuju puncak karena faktor tertentu berkaitan dengan tradisi khususnya jika tanggal 1 Syuro.\nGunung Sindoro terletak di terletak di kabupaten Wonosobo (Barat) dan kabupaten Temanggung (Timur). Seperti layaknya gunung Merapi-Merbabu, gunung Sindoro juga memiliki saudara yakni Gunung Sumbing. Ada hal unik pada dua gunung kembar ini yakni sebuah pemandangan yang melegenda.",
-          "jalur_pendakian": "Kledung (Temanggung)\nSikatok/Sigedang-Tambi (Wonosobo) tercepat\nSibajak (Temanggung)\nJlumprit (Dusun Katekan)",
-          "info_gunung": "Nama: Gunung Sindoro\nKetinggian: 3.136 mdpl\nLokasi: Wonosobo, Temanggung Jawa Tengah\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 1906"
-        },
-        {
-          "nama": "Gunung Slamet",
-          "image_gunung": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gunung_Slamet_dari_Kr_Salam.jpg/1200px-Gunung_Slamet_dari_Kr_Salam.jpg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.2407235,
-          "lon": 109.2108887,
-          "deskripsi": "Gunung Slamet adalah gunung tertinggi di Jawa Tengah dan gunung tertinggi kedua di pulau Jawa setelah gunung Semeru. Gunung Slamet memiliki ketinggian 3.428 mdpl. Gunung Slamet adalah gunung api yang masih aktif. Gunung ini juga dikatakan sebagai gunung yang membelah pulau Jawa karena berdiri di 5 kabupaten yakni Kabupaten Brebes, Banyumas, Purbalingga, Kabupaten Tegal, dan Kabupaten Pemalang, Provinsi Jawa Tengah. Aktivitas terakhir gunung Slamet adalah pada bulan Maret 2014 dan hingga awal 2015 gunung ini masih berstatus waspada.\nJalur pendakian gunung Slamet terkenal berat. Ekologi pada gunung Slamet sebagian besar adalah hutan. Di kaki gunung adalah perkebunan yang subur sehingga banyak masyarakat kaki gunung Slamet hidup berkecukupan dengan limpahan kekayaan alam. Selain kekayaan alam yang melimpah gunung Slamet juga dikenal gunung yang memiliki background penuh mitos.",
-          "jalur_pendakian": "Baturaden (Purwokerto) jalur resmi\nBambangan (Purbalingga) jalur resmi\nKaliwadas (Brebes) jalur resmi\nDukuhliwung (Tegal)\nGuci (Tegal)\nKaligua (Bumiayu)",
-          "info_gunung": "Nama: Gunung Slamet\nKetinggian: 3.428 mdpl\nLokasi: Kabupaten Brebes, Banyumas, Purbalingga, Tegal, dan Pemalang (Jawa Tengah)\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 2014\nSumber air: Sumur Penganten (jalur Kaliwadas)\nPuncak: Puncak Surono\nKawah: Segoro Wedi"
-        },
-        {
-          "nama": "Gunung Sumbing",
-          "image_gunung": "https://cdn.idntimes.com/content-images/community/2021/04/165979415-454802692424765-4742859987778341157-n-1-07a4f29dba4b014075e472810bb49bf0-0088385869bbfc4e3e13f19eec096df2.jpg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.3843089,
-          "lon": 110.0707907,
-          "deskripsi": "Gunung Sumbing adalah gunung api yang sudah lama sekali tidak meletus atau erupsi. Gunung ini terakhir kali erupsi adalah pada tahun 1730. Gunung Sumbing terletak di Jawa Tengah yakni masuk dalam kabupaten Magelang, Temanggung, dan Wonosobo. Gunung Sumbing sudah tidak aktif lagi namun di puncaknya masih terdapat kawah.\nGunung Sumbing memiliki ketinggian 3.371 mdpl. Kondisi alam di sekitar kaki gunung Sumbing sangat subur sehingga banyak dimanfaatkan masyarakat setempat sebagai perkebunan.",
-          "jalur_pendakian": "Jalur Garung\nJalur Cepit Parakan\nJalur Bowongso\nJalur Mangli",
-          "info_gunung": "Nama: Gunung Sumbing\nKetinggian: 3.371 mdpl\nLokasi: Wonosobo, Temanggung, Magelang\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 1730\nPuncak: Puncak Buntu dan Puncak Sejati"
-        },
-        {
-          "nama": "Gunung Ungaran",
-          "image_gunung": "https://3.bp.blogspot.com/-ppg1KhqmSwc/WJKmG8AfqJI/AAAAAAAAPZw/pIlFf3ZqgsAfc_Y9FuFj2KbBFUYGrswfgCLcB/s1600/cUpcb8tZ.jpeg",
-          "lokasi": "Jawa Tengah",
-          "lat": -7.1833418,
-          "lon": 110.3455274,
-          "deskripsi": "Gunung Ungaran adalah gunung api dengan ketinggian 2.050 mdpl yang terletak di kabupaten Semarang. Gunung ini memiliki tiga puncak: Gendol, Botak, dan Ungaran. Puncak tertinggi adalah Ungaran.\nDi lereng gunung Ungaran terdapat situs arkeologi berupa Candi Gedongsongo (Bahasa Jawa: gedong = gedung, songo = sembilan). Terdapat pula beberapa air terjun (curug), di antaranya Curug Semirang dan Curug Lawe. Juga terdapat gua, yang terkenal dengan nama Gua Jepang. Gua ini terletak 200 meter sebelum puncak, tepatnya di sekitar perkampungan Promasan (perkampungan para pemetik teh). Di sini terdapat pula reruntuhan bekas pemandian kuna.",
-          "jalur_pendakian": "Jalur Gedong Songo\nJalur Jimbaran\nMedini/Promosan",
-          "info_gunung": "Nama: Gunung Ungaran\nKetinggian: 2050 mdpl\nLokasi: Kabupaten Semarang (Jawa Tengah)\nTipe: Gunung berapi stratovolcanoss"
-        }
-      ]
-    },
-    {
-      "lokasi": "Jawa Barat",
-      "nama_gunung": [
-        {
-          "nama": "Gunung Cikuray",
-          "image_gunung": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mount_Cikuray_from_Cisurupan.JPG/800px-Mount_Cikuray_from_Cisurupan.JPG",
-          "lokasi": "Jawa Barat",
-          "lat": -7.3224135,
-          "lon": 107.8569654,
-          "deskripsi": "Gunung Cikuray adalah gunung tertinggi keempat di jawa barat setelah gunung Gede, Pangrango dan Ciremai. Secara geografis gunung Cikuray terletak di sebelah selatan provinsi jawa barat tepatnya di kabupaten Garut, dan berada di perbatasan kecamatan Bayongbong, Cikajang, dan Dayeuh Manggung. Gunung ini memiliki ketinggian 2.821 mdpl (meter di atas permukaan laut).\nKabupaten Garut terkenal sebagai daerah yang dingin dan banyak wisata gunungnya termasuk gunung Cikuray. Bagi para pendaki yang memiliki waktu liburan panjang atau pendaki dari luar provinsi biasanya melakukan pendakian gunung Cikuray sekaligus gunung guntur atau papandayan karena memang letaknya berdekatan.",
-          "jalur_pendakian": "Jalur Cikajang\nJalur Bayongbong\nJalur Dayeuhmanggung",
-          "info_gunung": "Nama: Gunung Cikuray\nKetinggian: 2.821 mdpl\nLokasi: Kabupaten Garut, Provinsi Jawa Barat\nTipe: Gunung Berapi"
-        },
-        {
-          "nama": "Gunung Ciremai",
-          "image_gunung": "https://mounture.com/wp-content/uploads/2020/01/20191212_171330-01.jpeg",
-          "lokasi": "Jawa Barat",
-          "lat": -6.8932063,
-          "lon": 108.4034338,
-          "deskripsi": "Gunung Ciremai atau Ceremai adalah salah satu gunung yang memiliki ketinggian di atas 3000 mdpl yang terletak di 3 kabupaten yakni Kabupaten Cirebon, Kabupaten Kuningan dan Kabupaten Majalengka, Provinsi Jawa Barat. Gunung api ini memiliki ketinggian 3.078 mdpl. Gunung Ciremai merupakan gunung tertinggi di Jawa Barat.\nAsal nama Ciremai atau Ceremai adalah dari kata tumbuhan bernama Cereme yaitu sejenis tumbuhan perdu gunung. Kemudian karena masyarakat Jawa Barat biasanya menamakan suatu tempat dengan awalan “ci” maka dinamakanlah “Ciremai”.",
-          "jalur_pendakian": "Palutungan\nLinggarjati\nApuy\nPadabeunghar",
-          "info_gunung": "Nama: Gunung Ciremai\nKetinggian: 3.078 mdpl\nLokasi: Cirebon, Kuningan dan Majalengka\nLetusan terakhir: 1938\nPengelola: Taman Nasional Gunung Ciremai\nWebsite: http://tngciremai.com\nSpot alam: Hutan, Sabana, Bukit, Kawah\nPuncak: Puncak Sunan Mataram"
-        },
-        {
-          "nama": "Gunung Gede",
-          "image_gunung": "https://cianjurkab.go.id/wp-content/uploads/2018/12/gununggede-952x637.jpg",
-          "lokasi": "Jawa Barat",
-          "lat": -6.7878168,
-          "lon": 106.9788904,
-          "deskripsi": "Gunung Gede merupakan sebuah gunung yang berada di Pulau Jawa, Indonesia. Gunung Gede berada dalam ruang lingkup Taman Nasional Gede Pangrango, yang merupakan salah satu dari lima taman nasional yang pertama kali diumumkan di Indonesia pada tahun 1980. Gunung ini berada di wilayah tiga kabupaten yaitu Kabupaten Bogor, Cianjur dan Sukabumi, dengan ketinggian 1.000 - 3.000 mdpl.",
-          "jalur_pendakian": "Jalur Cibodas\nJalur Gunung Putri,\nJalur Selabintana.",
-          "info_gunung": "Nama: Gunung Gede\nKetinggian: 2.958 mdpl\nLokasi: Bogor, Cianjur, Sukabumi, Jawa Barat\nSumber air: telga biru, air panas, alun-alun surya kencana\nTipe: Stratovolcano (aktif)"
-        },
-        {
-          "nama": "Gunung Guntur",
-          "image_gunung": "https://assets.pikiran-rakyat.com/crop/0x261:1080x912/x/photo/2019/12/18/1784006808.jpg",
-          "lokasi": "Jawa Barat",
-          "lat": -7.153546,
-          "lon": 107.8452636,
-          "deskripsi": "Selain Gunung Papandayan dan Cikuray, Gunung lain di Garut yang juga menjadi kesukaan pendaki di Jawa Barat dan sekitarnya adalah Gunung Guntur. Gunung ini memiliki ketinggian 2.249 mdpl dan punya pemandangan yang tak kalah indah dengan gunung-gunung lainnya.\nWalau tingginya tidak sampai 3.000 mdpl, namun pendakian ke gunung ini terkenal cukup sulit karna medan yang terjal serta tidak adanya jalur khusus menuju ke puncak. Apalagi jika cuaca sedang berkabut, track pendakian akan semakin menyulitkan para pendaki. Namun, apa yang akan kita dapatkan begitu sampai di puncak sangatlah spektakuler.",
-          "jalur_pendakian": "Jalur Curug Citiis",
-          "info_gunung": "Nama: Gunung Guntur\nKetinggian: 2.249 mdpl\nLokasi: Jawa Barat\nTipe: Gunung kecil bukan api\nKondisi: perkebunan, hutan, kabut\nSpot alam: perkebunan\nFlora: pohon akasia, pinus\nFauna: berbagai macam burung\nSumber air: ada"
-        },
-        {
-          "nama": "Gunung Malabar",
-          "image_gunung": "http://pendaki.id/wp-content/uploads/2019/07/Gambar-Gunung-Malabar.jpg",
-          "lokasi": "Jawa Barat",
-          "lat": -7.128601,
-          "lon": 107.632769,
-          "deskripsi": "Gunung Malabar adalah nama rangkaian pegunungan yang ada di wilayah selatan Bandung. Rangkaian pegunungan ini memiliki beberapa gunung. Antara lain Gunung Putang serta Gunung Haruman. Malabar sendiri adalah nama salah satu puncak di rangkaian Pegunungan Malabar.\nGunung yang paling terkenal di Pegunungan Malabar adalah Gunung Haruman dengan puncak yang dikenal dengan nama Puncak Besar. Titik paling tinggi di gunung ini adalah 2.343 mdpl. Lokasinya yang masuk masuk wilayah Bandung membuat Pegunungan Malabar menjadi salah satu gunung yang disukai para pendaki.",
-          "jalur_pendakian": "Mekarsari\nPuntang",
-          "info_gunung": "Nama: Gunung Malabar\nKetinggian: 2.343 mdpl\nLokasi: Jawa Barat\nTipe: Gunung kecil bukan api\nKondisi: perkebunan, hutan, kabut\nSpot alam: perkebunan\nFlora: pohon akasia, pinus\nFauna: berbagai macam burung\nSumber air: ada"
-        },
-        {
-          "nama": "Gunung Pangrango",
-          "image_gunung": "https://travelspromo.com/wp-content/uploads/2019/04/Taman-Nasional-Gunung-Gede-Pangrango.-Foto-Gmap-Abhi-Supryandi-e1556503633354.jpg",
-          "lokasi": "Jawa Barat",
-          "lat": -6.7708833,
-          "lon": 106.9599363,
-          "deskripsi": "Gunung Pangrango merupakan sebuah gunung yang terdapat di pulau Jawa, Indonesia. Gunung Pangrango mempunyai ketinggian setinggi 3.019 meter dari permukaan laut. Puncaknya dinamakan Puncak Mandalawangi. Puncak Mandalawangi juga merupakan titik pertemuan batas tiga kabupaten yaitu Kabupaten Bogor, Kabupaten Cianjur dan Kabupaten Sukabumi.\nGunung Pangrango merupakan gunung tertinggi kedua di Jawa Barat setelah Gunung Ceremai. Gunung Pangrango terletak persis bersebelahan dengan Gunung Gede dan berada dalam kawasan Taman Nasional Gede Pangrango.",
-          "jalur_pendakian": "Jalur Cibodas\nJalur Gunung Putri\nJalur Selabintana",
-          "info_gunung": "Nama: Gunung Gede\nKetinggian: 3.019 mdpl\nLokasi: Bogor, Cianjur, Sukabumi, Jawa Barat\nSumber air: telga biru, air panas, alun-alun surya kencana\nTipe: Stratovolcano (aktif)"
-        },
-        {
-          "nama": "Gunung Papandayan",
-          "image_gunung": "https://indonesiakaya.com/wp-content/uploads/2020/10/1__IMG_9388_Kawasan_Hutan_Mati_merupakan_salah_satu_bagian_eksotis_dari_Gunung_Papandayan.jpg",
-          "lokasi": "Jawa Barat",
-          "lat": -7.3190968,
-          "lon": 107.7276874,
-          "deskripsi": "Gunung Papandayan berada di Kecamatan Cisurupan, Kabupaten Garut, Jawa Barat. Di gunung ini terdapat beberapa kawah terkenal antara lain Kawah Baru, Kawah Mas, Kawah Nangklak, dan Kawah Manuk. Gunung Papandayan memiliki keanekaragaman flora dan fauna seperti edelweiss, puspa, pohon suagi, trenggiling, kijang, lutung, dan lain-lain. Gunung ini terdapat kawah yang lumayan memberikan efek panas bagi tubuh, namun kawah panas itu tidak mengurangi jumlah banyaknya pengunjung yang ingin berkunjung ke gunung papandayan ini.\nDaerah yang paling banyak menarik wisatawan salah satunya adalah Kawah Papandayan. Di kawah tersebut terdapat lubang-lubang yang bisa menghasilkan suara-suara unik. Gunung yang sudah beberapa kali meletus ini memiliki ketinggian 2.665 meter atau 8.740 kaki.",
-          "jalur_pendakian": "Cisurupan\nPangalengan",
-          "info_gunung": "Nama: Gunung Papandayan\nKetinggian: 2.665 mdpl\nLokasi: Jawa Barat\nTipe: Gunung Stratovolcano"
-        },
-        {
-          "nama": "Gunung Patuha",
-          "image_gunung": "https://kitingfield.com/wp-content/uploads/2019/10/DSCF9979.jpg",
-          "lokasi": "Jawa Barat",
-          "lat": -7.1640912,
-          "lon": 107.3990455,
-          "deskripsi": "Nama Gunung Patuha mungkin masih sedikit asing. Namun, jika kita sebutkan Kawah Putih semua pasti langsung tahu. Yap, Kawah Putih adalah bagian dari Gunung Patuha yang berada di Bandung. Pesona Kawah Putih telah dikenal luas di Indonesia.\nNamun, jangan lupa bahwa kawah tersebut merupakan bagian dari Gunung Patuha. Asal muasal kawah cantik ini adalah dari letusan Gunung Patuha tempo dulu. Tentu akan sangat menarik jika melakukan pendakian Gunung Patuha lalu menyaksikan indahnya Kawah Putih dari ketinggian.",
-          "jalur_pendakian": "Rancabali",
-          "info_gunung": "Nama: Gunung Patuha\nLokasi: Jawa Barat\nKetinggian: 2.386 mdpl\nTipe: Gunung-Aktif"
-        },
-        {
-          "nama": "Gunung Rakutak",
-          "image_gunung": "https://nyero.id/wp-content/uploads/2017/11/Gunung-Rakutak-758x492.png",
-          "lokasi": "Jawa Barat",
-          "lat": -7.1496392,
-          "lon": 107.7308723,
-          "deskripsi": "Nama gunung Rakutak belum terlalu terkenal, hingga beberapa waktu lalu banyak yang mengunggah foto-foto keren dari gunung yang nggak terlalu tinggi ini, dan sukses membuat Rakutak menjadi salah satu destinasi favorit pendaki sekitar Jawa Barat. Gunung setinggi 1.957 mdpl ini punya panorama keindahan alam yang super keren, terutama di jembatan sirotol mustaqimnya yang terkenal. Dari gunung ini, kamu dapat melihat pemandangan gunung-gunung indah di sekitar kota Bandung.",
-          "jalur_pendakian": "Sukarame",
-          "info_gunung": "Nama: Gunung Rakutak\nKetinggian: 1.957 mdpl\nLokasi: Jawa Barat\nTipe: Gunung kecil bukan api\nKondisi: perkebunan, hutan, kabut\nSumber air: ada"
-        },
-        {
-          "nama": "Gunung Salak",
-          "image_gunung": "https://imgsrv2.voi.id/ouC3N0Qug2QKl_2MhGzDaFbagCbRkXWYuhpwouOTeKw/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8zNDQwNy8yMDIxMDIyMDE1NDUtbWFpbi5qcGc.jpg",
-          "lokasi": "Jawa Barat",
-          "lat": -6.7160803,
-          "lon": 106.7306358,
-          "deskripsi": "Gunung Salak adalah gunung impian bagi mereka yang benar-benar memiliki jiwa pendaki sejati. Gunung ini begitu menantang karna sangat terkenal dengan suasana mistisnya. Butuh nyali untuk melakukan pendakian ke gunung yang satu ini.\nGunung Salak terletak diantara Kabupaten Sukabumi dan Bogor. Gunung ini merupakan bagian dari Taman Nasional Gunung Halimun-Salak. Nama gunung ini sendiri berasal dari bahasa Sansekerta yang berarti perak. Walau tidak terlalu tinggi (2.221 mdpl), pendakian Gunung Salak terkenal cukup sulit karna medannya yang tidak ramah untuk pendaki. Salah satu jalur pendakian ke Gunung Salak adalah melalui jalur Cidahu, Sukabumi. Jalur pendakian ke Gunung Salak akan melewati beberapa makam yang konon cukup keramat jika ingin melakukan pendakian ke Gunung Salak pastikan persiapannya benar-benar maksimal.",
-          "jalur_pendakian": "Cidahu\nCuruk Nangka\nCimelati",
-          "info_gunung": "Nama: Gunung Salak\nKetinggian: 2.221 mdpl\nLokasi: Jawa Barat\nTipe: Gunung Aktif\nKondisi: perkebunan, hutan, kabut\nSpot alam: perkebunan\nFlora: pohon akasia, pinus\nFauna: berbagai macam burung\nSumber air: ada"
         }
       ]
     },
@@ -684,7 +684,7 @@
           "info_gunung": "Nama: Gunung Latimojong\nKetinggian: 781  mdpl\nLokasi: Maluku\nTipe: Gunung Non-Aktif"
         },
         {
-          "nama": "Gunung Lawarkarwa",
+          "nama": "Gunung Api Banda",
           "image_gunung": "https://jejakpiknik.com/wp-content/uploads/2020/07/3@agungtravel.id_-630x380.jpg",
           "lokasi": "Maluku",
           "lat": -4.439607384268944,
@@ -781,6 +781,111 @@
       ]
     },
     {
+      "lokasi": "Papua",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Jaya Wijaya",
+          "image_gunung": "https://ksmtour.com/media/images/articles/puncak_jaya__sudirman_range__papua__indonesia.jpg",
+          "lokasi": "Papua",
+          "lat": -4.0839998,
+          "lon": 137.184683,
+          "deskripsi": "Puncak Jaya ialah sebuah puncak yang menjadi bagian dari Barisan Sudirman yang terdapat di Provinsi Papua, Indonesia. Puncak Jaya mempunyai ketinggian 4.884 mdpl dan di sekitarnya terdapat gletser Carstensz, satu-satunya gletser tropika di Indonesia, yang kemungkinan besar segera akan lenyap akibat pemanasan global.\nPuncak ini merupakan gunung yang tertinggi di Indonesia kawasan Oceania. Puncak Jaya adalah salah satu dari tujuh puncak dunia.",
+          "jalur_pendakian": "Sugapa\nIlaga",
+          "info_gunung": "Nama: Gunung Jaya Wijaya\nKetinggian: 4.884 mdpl\nLokasi: Papua\nTipe: Gunung Berapi Aktif"
+        },
+        {
+          "nama": "Gunung Trikora",
+          "image_gunung": "https://upload.wikimedia.org/wikipedia/commons/1/11/Puncak_Trikora_from_north._main_summit_%28center_left%29_and_west_ridge_by_Christian_Stangl_flickr.jpg",
+          "lokasi": "Papua",
+          "lat": -4.2601886796971,
+          "lon": 138.68072468981717,
+          "deskripsi": "  Puncak Trikora memiliki ketinggian 4.730 mdpl. Konon, Puncak Trikora lebih susah ditaklukan dibanding Puncak Jaya loh, Sebagai gunung tertinggi ketiga di Indonesia. Puncak Trikora memiliki suhu terendah sebesar 4 derajat celcius. Seperti halnya kondisi gunung-gunung yang terletak di Pegunungan Jayawijaya, kondisi salju di Puncak Trikora juga semakin terkikis karena pemanasan global.",
+          "jalur_pendakian": "Danau Habema",
+          "info_gunung": "Nama: Gunung Trikora\nKetinggian: 4.730 mdpl\nLokasi: Papua\nTipe: Gunung"
+        }
+      ]
+    },
+    {
+      "lokasi": "Papua Barat",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Arfak",
+          "image_gunung": "https://assets-a1.kompasiana.com/items/album/2019/07/14/1-5d2ab341097f36583546ab92.jpg",
+          "lokasi": "Papua Barat",
+          "lat": -1.1562374799823898,
+          "lon": 133.9796135893718,
+          "deskripsi": "Gunung Arfak adalah titik tertinggi di provinsi Papua Barat. Gunung ini terletak di timur laut Semenanjung Doberai dan merupakan puncak tertinggi dari Pegunungan Arfak. Kota Manokwari dapat terlihat dari puncak gunung ini.Selain itu di Gunung Arfak pengunjung juga bisa mendapati Danau Anggi Gida dan Danau Anggi Giji.  Danau Anggi Gida dan Danau Anggi Giji di Pegunungan Arfak adalah obyek wisata berbentuk danau yang terletak di ketinggian sekitar 2.000 meter di atas permukaan laut (mdpl).",
+          "jalur_pendakian": "Kampung Kwaw",
+          "info_gunung": "Nama: Gunung Arfak\nKetinggian: 2.950 mdpl\nLokasi: Papua Barat\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Riau",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Djadi",
+          "image_gunung": "https://melayupedia.com/foto_berita/2022/02/2022-03-01-mengenal-gunung-djadi-gunung-pertama-di-riau.jpeg",
+          "lokasi": "Riau",
+          "lat": -0.23544006997062036,
+          "lon": 100.94384581208926,
+          "deskripsi": "Dengan ketinggian 1091 Meter Diatas Permukaan Laut (MDPL), gunung yang bernama Gunung Djadi ini berada di kawasan Suaka Margasatwa Rimbang baling, Kabupaten Kampar.Menariknya, untuk sampai ke puncak Gunung Djadi, kamu harus melewati 10 puncak bukit. Gunung Djadi menyimpan banyak keindahan alam dan petualangan yang luar biasa. Pada tahun 2012 lalu, sebuah tim ekspedisi diluncurkan ke kawasan Gunung Djadi, untuk memverifikasi kebenaran gunung tersebut.\nSetelah lebih kurang 1 minggu, tim ekspedisi menemukan bahwa Gunung Djadi memang layak dinobatkan sebagai gunung dan sekaligus menjadi gunung pertama di Riau.",
+          "jalur_pendakian": "Desa Pangkalan Serai",
+          "info_gunung": "Nama: Gunung Djadi\nKetinggian: 1.091 mdpl\nLokasi: Riau\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Kepulauan Riau",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Daik",
+          "image_gunung": "https://1.bp.blogspot.com/-AIdtAHFZCjA/WnLC-2d5eyI/AAAAAAAAKOQ/Pi9Yu5eKrp4ydvRau77ZJPToqCJYyFL8ACLcBGAs/s1600/IMG-20170618-WA0019.jpg",
+          "lokasi": "Kepulauan Riau",
+          "lat": -0.19914169833861647,
+          "lon": 104.55006437301587,
+          "deskripsi": "Gunung Daik adalah gunung yang terletak di Pulau Lingga, Kabupaten Lingga, Provinsi Kepulauan Riau, Indonesia. Gunung ini adalah gunung tertinggi di Provinsi Kepulauan Riau. Gunung Daik memiliki tiga puncak: Gunung Daik. Gunung Pejantan. Gunung Cindai Menangis.Gunung Daik memiliki ketinggian 1.165 meter Dpl. dengan puncaknya memiliki kesulitan panjat tebing 5.9-5.11 North American Grade Standard.\nSelain keindahan alam yang di tampilkan oleh Gunung Daik, ada cerita turun-menurun yang dipercaya masyarakat sekitar tentang penghuni ketiga puncak Gunung Daik. Mahkluk tersebut dikenal dengan Orang Bunian. ",
+          "jalur_pendakian": "Desa Sepincan",
+          "info_gunung": "Nama: Gunung Djadi\nKetinggian: 1.165  mdpl\nLokasi: Kepulauan Riau\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Ranai",
+          "image_gunung": "https://www.mongabay.co.id/wp-content/uploads/2022/04/Nelayan-Natuna-pulang-melaut-dengan-lar-gunung-Ranai-Natuna.-Foto-Yogi-Eka-scaled.jpg",
+          "lokasi": "Kepulauan Riau",
+          "lat": 3.9507704946493294,
+          "lon": 108.35012870597107,
+          "deskripsi": "Gunung Ranai adalah gunung yang terletak di pulau Ranai, Kabupaten Natuna, Provinsi Kepulauan Riau, Indonesia.Gunung Ranai merupakan gunung dataran rendah, sebab ketinggiannya berkisar antara 300—1.035 meter di atas permukaan laut (mdpl). Meskipun demikian, para pelancong yang mendaki gunung ini akan menemukan fenomena menarik, yaitu gradasi jenis-jenis tanaman dari hutan dataran rendah hingga hutan dataran atas. Pada ketinggian tertentu, para pendaki akan menemukan tipe-tipe vegetasi yang memperlihatkan ciri khas pegunungan dataran atas (gunung dengan ketinggian rata-rata 2.000 meter dpl).",
+          "jalur_pendakian": "Ranai Darat",
+          "info_gunung": "Nama: Gunung Ranai\nKetinggian: 1.035  mdpl\nLokasi: Kepulauan Riau\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Sulawesi Barat",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Gandang Dewata",
+          "image_gunung": "https://penasulbar.co.id/wp-content/uploads/2019/07/IMG_20190719_094838.jpg",
+          "lokasi": "Sulawesi Barat",
+          "lat": -2.7467899455331013,
+          "lon": 119.36863353503907,
+          "deskripsi": "Gunung Gandangdewata adalah sebuah gunung yang terletak di Kabupaten Mamasa, Sulawesi Barat. Gunung ini adalah salah satu gunung tertinggi yang terletak di kawasan Pegunungan Quarlesi[1] dan merupakan gunung tertinggi kedua di Sulawesi setelah Gunung Latimojong (3.478 mdpl).[1] Gunung ini memiliki ketinggian 3.037 mdpl dan merupakan daerah tangkapan air terluas yang berada di Provinsi Sulawesi Barat.",
+          "jalur_pendakian": "Jalur Paku\nJalur Rante Pongko",
+          "info_gunung": "Nama: Gunung Gandang Dewata\nKetinggian: 3.037 mdpl\nLokasi: Sulawesi Barat\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Mambuliling",
+          "image_gunung": "https://www.transtipo.com/wp-content/uploads/2019/07/Utama-696x369.jpeg",
+          "lokasi": "Sulawesi Barat",
+          "lat": -2.8839079534646626,
+          "lon":  119.3480167784611,
+          "deskripsi": "Di sebelah timur kota Mamasa terdapat sebuah gunung tinggi yang menjulang tinggi ke langit, gunung itu adalah Mambulilling, salah satu gunung tertinggi yang dimiliki daerah ini dengan ketinggian 2.741 meter di atas permukaan air laut dan hampir semua orang Sulbar mengenalnya.",
+          "jalur_pendakian": "Jalur Loko\nJalur Nekke",
+          "info_gunung": "Nama: Gunung Mambuliling\nKetinggian: 2.741 mdpl\nLokasi: Sulawesi Barat\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
       "lokasi": "Sulawesi Selatan",
       "nama_gunung": [
         {
@@ -792,23 +897,233 @@
           "deskripsi": "Gunung Latimojong adalah satu nama gunung di Kabupaten Enrekang, Sulawesi Selatan, Indonesia. Gunung Latimojong berada di tengah-tengah Sulawesi Selatan. Sebagian besar pengunungan ini terletak di daerah Kabupaten Enrekang.\nGunung Latimojong merupakan gunung yang tertinggi di Sulawesi Selatan dengan ketinggian 3.478 meter, puncaknya yang bernama Rante Mario.",
           "jalur_pendakian": "Rante Lemo\nKarangan",
           "info_gunung": "Nama: Gunung Latimojong\nKetinggian: 3.478 mdpl\nLokasi: Sulawesi Selatan\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Rantekombola",
+          "image_gunung": "http://1.bp.blogspot.com/-G2oi2hBQFWQ/VgaeaIU7faI/AAAAAAAAAL0/6-5U2I0a0VM/s640/image018.jpg",
+          "lokasi": "Sulawesi Selatan",
+          "lat": -3.348029059491729,
+          "lon": 120.01679557376046,
+          "deskripsi": "Gunung Rantekombola memiliki ketinggian 3.455 meter di atas permukaan laut. Dengan ukuran setinggi itu setiap pendaki yang berada di puncak gunung akan serasa berada di atas awan sebab awan akan terlihat lebih rendah ketimbang puncak gunung. Secara umum dibutuhkan waktu 5-7 hari pendakian untuk sampai di titik tertinggi yang ditandai dengan tumpukan batu oleh para pendaki terdahulu.",
+          "jalur_pendakian": "Kecamatan Baraka",
+          "info_gunung": "Nama: Gunung Rantekombola\nKetinggian: 3.455 mdpl\nLokasi: Sulawesi Selatan\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Balease",
+          "image_gunung": "https://parimbo.com/wp-content/uploads/2013/05/Gunung-Balease.jpg",
+          "lokasi": "Sulawesi Selatan",
+          "lat": -3.348029059491729,
+          "lon": 120.01679557376046,
+          "deskripsi": "Gunung Balease adalah sebuah gunung yang terdapat di Provinsi Sulawesi Selatan, Indonesia. Gunung Balease yang bukan merupakan gunung berapi ini menjadi titik tertinggi di Pegunungan Karoue dengan ketinggian puncak sekitar 3.016 meter di atas permukaan air laut (Mdpl). Gunung ini secara administrasi berada di perbatasan Kabupaten Luwu Utara dan Kabupaten Luwu Timur. Puncak gunung ini merupakan yang paling sulit ditaklukan pendaki di Sulawesi Selatan. Paling singkat butuh waktu seminggu untuk bisa mendaki dan turun dari puncak gunung ini. Pendakian dimulai dari Desa Bantimurung, Kecamatan Bone-Bone, Kabupaten Luwu Utara. Gunung ini memiliki sebuah lembah bernama Lembah Waru yang diselimuti lumut.",
+          "jalur_pendakian": "Desa Bantimurung",
+          "info_gunung": "Nama: Gunung Rantekombola\nKetinggian: 3.016 mdpl\nLokasi: Sulawesi Selatan\nTipe: Gunung Non-Aktif"
         }
       ]
     },
     {
-      "lokasi": "Papua",
+      "lokasi": "Sulawesi Tengah",
       "nama_gunung": [
         {
-          "nama": "Gunung Jaya Wijaya",
-          "image_gunung": "https://ksmtour.com/media/images/articles/puncak_jaya__sudirman_range__papua__indonesia.jpg",
-          "lokasi": "Papua",
-          "lat": -4.0839998,
-          "lon": 137.184683,
-          "deskripsi": "Puncak Jaya ialah sebuah puncak yang menjadi bagian dari Barisan Sudirman yang terdapat di Provinsi Papua, Indonesia. Puncak Jaya mempunyai ketinggian 4.884 mdpl dan di sekitarnya terdapat gletser Carstensz, satu-satunya gletser tropika di Indonesia, yang kemungkinan besar segera akan lenyap akibat pemanasan global.\nPuncak ini merupakan gunung yang tertinggi di Indonesia kawasan Oceania. Puncak Jaya adalah salah satu dari tujuh puncak dunia.",
-          "jalur_pendakian": "Sugapa\nIlaga",
-          "info_gunung": "Nama: Gunung Jaya Wijaya\nKetinggian: 4.884 mdpl\nLokasi: Papua\nTipe: Gunung"
+          "nama": "Gunung Sojol",
+          "image_gunung": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEBAPEBISEBUQDxAPEBAPEA8SEA8PFREWFhUSFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFRAQFSsdFxktLS0tLSstLSsrLS0rKystLS0tKysrLS0rLS0tNysrNy0tKysrKzcrKysrKysrKysrK//AABEIAMIBAwMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAACBAABAwUGBwj/xAA7EAACAQIEAwUGBAUEAwEAAAAAAQIDEQQhMUESUWEFE3GBkQYUobHB8CJS0fEVMmJy4QczQpIjc4JD/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAfEQEBAQACAgIDAAAAAAAAAAAAARECIRJRMUEDIoH/2gAMAwEAAhEDEQA/AO/GBbpmsUGonRzLcAMqY3wFcJAhOiLVKJ1Ji84hXKnQA92Oo4dAHSA56wwSoIf7kKNABBUOhrDDj8KBtCgAjDDm8KA7CgbRoBScKBtCgOQomsaYCcaAaoDiphqmAmsOGqA2oBKmAn3JfcjyohKiAgqRapDrpFd2FKd0F3YxwF8BAt3ZO7GeApxAWdMGVNDXCBKBNCMoGM4j8oGUoAIcBBvhIUKwRoogxNYG3MLgA6YykXwmQk6RToj3AR0wpDuiKkO92X3YUmqQcaI0qYcaYCqomsaIxwBxiBlCkaxpBonEBagFYC5Ao7olyooLhIB4gkwkgkiiK4SuRGkWRQ2YPCbpl2JowVNl8BvYpkGSgF3YTdgJMAXAF00FwFuICs4i82PSgLzgAp5ENXEg0c2JpFmEZBqR1czCkFFmEZGkZGRsmGZxZomFVYtItSJcKtItA3CUgLsWVxE4wCIkBxk4iDQviRg5k4gGFItTFuMnEFNKYakKKRpGYDUTRIVjUDVYKajEPh6iXfBxqEDTiBwmfe9Su86kBSZQDmjKdYDZ1AXiEtxKpWF51CyB+eMQvUxy5CMpmUmXA08d0IIWIMARkHGQtcvjNuZtSDjMSVUONUgeUwlUEVUCVQgeVUvvBSNQ0jUCmVItMzjNGiCiTLTKSJYgsIAviAuxGgeInEBZEig0BEg1EpSC7wKNQL4AOMp1ANOEsy70rvQrVlXM+8B4mQFKRmyOQEmAMjNhNmcmUU0imgHIFyCDsQy4igEeMFyC4S+6NubPiLjJ8jWNMK3QKBTfI0U2VxdCKfQgJVGGqpUWaxiAMaxrCuTgIooit44oL3pGKguYapLmOgfvCK78iw/UL3RjYoVWDjUM3hZA9zJAMqQSaFMw4yZAxcpy6gRTZrHDvmvUauA4i0a+7/dy+5sTTAWCS6BpWDjUXJE1WOfInDLkNe8W0sR4z7uNUr7vLf5FOgMe+f0/UjxfReg0JyodDKVF8h/3gCVdgc90GC8KxyVTxB7zp6jQp7oyxriINGX8LfRBx7I6jkap5L229t6VCjUpYeop4id6a7tqXcZZzk9mtlrdrkxtZyEPa/2no4TvKFJ97iE1FxV+7ou13KctG1+VbvOx4rs/20xdOTbmqyesasE0vBxs0ebnO+ud9b53fPMpM1EfZPZr2uwuK4YVLYatpwVH/wCOT5wm8s+Ts9ejfsP4UtXyvpsfm2/27HW7K9pMXh3HucVWgoWtT7ycqVk9O7k3G3kKr7+uyY8gv4YtkeK9mf8AVelPhp4+n3Um7e8UlejbbjjrHxV1zse9wXb2Eq2dLEUZ8WijVhdvwuY7XIW9w6EfZ8fyo7l1yJlyG0xwf4fHkiLAI7riuQPAuQ1cceOECWHaOtwLp6oLu+i9UNRyO4vuWsFff4HV7novUtQ6L1Gjmx7OXP5GscDHqx3PkvVAup95DsLe5w5fEv3WPJjHH93RTqfdyKXeDXX4FrCLqa951LVTqgF5YXoZywHReo259Uy79X6MBH3CXKPxBeElso+g3KSX/J+jMqmIX5p+th2FZYSptbyK9ynu18zX3qK2fnIqeNhbJNdblypsYvAP83wBeBfMzli19s3wuPitU7iywljB4OXMB4PnL4j2JlxJ2cUvM4sq/C8s+TcX9RJaWyGvdP6kQT99lyX/AERZrwrPnHyP2g9tsRiHwwnPD07NcFKbjKX901Z+S+J5jjM+Iq4MGWgEy0wokwkwC0BqmFFmakWNHZwPtFi6LTpYrEQ4dI9/UlT8O7k3F+aPQ4T/AFN7QhbinTqL+ukk3/1a+R4dMJBH0pf6t4i3+xReWvHU18AsP/qTipzhNqmoxvejG6VRuLX4pO7sm08rfynzVMZwlZJ5irH33sTt2OIowqr8L/lqQ14Km66rdPkzoLFnw7s/tSpRvUo1HHTiyi049U/3PT9ne3f4lDEQ4E9KsLuN+q1Xx+pMV9JljWtreoK7S52+JzsB2spJJd3JPRuUWmmbTwrk72hDorsl6Dr7RX9PxAfakegjPstv/nblZP6MWn2TParF9W5L9Rs9nbswxl+RuqvWPq/1OHT7MqLN1IPwlL9CTg4uza5/zXdh/TXceMis8n5NmD7Ujoo57fhTORKPgvNgrEOGd48s+RcNdp9oytfTwST+AC7Tnqm15nAq9ou7s/iD/En+5fCp5x3Kna71u/EVn22uj8Yps892h2tTguKq4xXPO78Fuc7De1uB4mpqrb88ovh8lF3+BfDE8tevj2rfRJ+EUG8dZXqRjGP5pKNl5ngO3fbCjDLBKUpNZzk5KnDwUs5P0R4jHdoVa0nKtUnUb1cpNr00XhYTiuvvFLtDDtNrgkt5KzS89jzmK/1HwlOq6caM5xi+F1YKnZvfhTd5LrkfJKVRq6TaTVmk2rrrYB5FnD3TX3nsv2swuIyo1It/ka4Z+cZZnSliqb1sfnSFRxaknZp3TWTT8T1HZXtnOPDHEJ1Y3zqR/wBxLw0bM38XpfJ9g76n9pkPEw9o8G0mqqV/zO0vNPMsz4X2eUfGL8y8gDRUn0Xi7F2GVRdwow6ryeoLXkNhliJhxMmE5Zai0jdU95NK3LNksv8AjLa+eQnxJ2zWX/ZhQqu75dUtDnvJ0/U7FX3V9tc/MFuzz/wYuV/0Dg8l4G5brFzOmkagSkZIK5pg1QrNaO98rbNbo6igpRfW3l4HCix/A4l34W/D9CVqd9GaU503aLdujs14HSw/tDiErRxFayeim07/ADFFnormcqf4r2sTVw9W7Yryd++rN6f7s39RiHtBil/+9R/3Pi8s8zkuPL0Cpvb4MujpVe28VLN4ipb8sGopeazMYYyop95xz4s//JxycviKxXlc0Uttbetho7MPaaql+NRn1V4t+INf2odvw0893KWS9MzkOOTttd+QtN3+pucmLxjpz7frvSUY/wBsFf43E3i6t7upN31/HLP4mVKKItbEvKrJF105NObcmtHKTeXiZVKaenwNpSTViqcrbE2rkKTw2Ttrr0FZxs7HW41/gXr00/oWckxz0wmHOhYyZvUxVyXKbKbLGRNv7uQzuQoTWIWa5ZATn/yvlbJO2pTUXmuuu++oTknHhatbNPV28Ty9O+hp1W3vtpa7GVZv8Tjysnn5sU6aX36F5ddNLmbCU3w/0+DSk9vQzlC2me+jQPFJLivfz+gXG7XfqXjpyy/QYwT26slNfzLy8r6h8ba5PmZu6s34P9Wa1hOB3dr/AM36m8Sk9LrbMssSruXcpFmhcZB052dwGirhHSoY/NcXqtjo8fFnrffZ+B55aB0sQ46PyJjXl7duUOQHFzMMNjrq0l+3gMNp53XqQxJTyty0BUi19vmBoF1rfkVczUi+MotL46FX+BbYE8wNYu6tl05lNW9DGMrGqllkEVJbkjJP99ymstTKd9QDkl/kTxEc7+T/AFGlJXXKwNfO7LKEWUaVIGZuVmxRCuAhdRz5TsrJ6dboy7yxUd7/AOPAtcP3scHQMpNvPKyyInpvzTNbp6q5Uo8ueQBKot8lzCpz16bGTV9SR1z20EhpmKyVuXxI3lZ2BUgpT08bBG8ZZXJfqCo5O25HLJK3mT4XBW2/cpu33oFxXyvm9CX0+XUsqYkZ31LtcFw/Ylv3LsTBRTJIly+Lz0v0GmDpSydt0w73j4fAxtndBweeekuQanoxg6zS4dtQsRiWnkJwlZh153sD6b08VfX1WwxCplz8DlS+nxCi2lf4lSV1kyXObHFNfqM08SnqDTDZOJvNGbmufqWly10BW0VtbyRmuXmDG6z6hKqwAT1+S3Bc/kHbO65O5Tw8nmtwMagPdjNOhzTOjRwX4bxSlfnqijhdyuZDuvs9POzXgsigPE5fegcY22133sZwYbX3zMKKWmVkwafXm3YK18gINrwXzAO1ypp8s1oHa3z/AMlXCLim/PbkFCm7pWtrZc3uyRjvps7rZ6hur5/QzeWUVDVLPN2NE3o+tnp+xlKq9tFsW53XXQTaDdb8PDvxZPpurEl+G3XRvZgp753/ADK2WWgF7vPlpzfMv2D47t/PRM3pu26+ZhTkl8FtkFVd7XemmXPP6kXVVKzWy556X+7BQrZJ2atn4gUqTd1tHrzdlYutRak43jZO2WayKutYy3zefntoHGXIwjG2Sbz1zCSf3zKy0m76mlGCeT8jKMi1lpdZ5FWfOmamFyVsunJg4uNklyy8zajVTTV89fMurFNW579djM1uyWdOeTiJazsCbcsNQrbM2UuQnh1dpPfmau6bs9NuhNWHYVeYSa19RKjJyaUVm9luORpzWsJeNjQYpRtnHPmjbi8VvoK4eok1fJ+DOiqi4dVmQY94lv5DuGxccs0IVKKunZmdSXJ5rd7gekjiVYs89HEu2pAPIJ25a75k4+eXTYlSNtQZfIw1dFGa5F7/AB+IEZX8Q4L8Wb2frsEHOO+Xk/hYBO30CpPno9foSUrZchopSvrf4ASWeZUKbtfnuFJXICVtF5hKOV9ftfqZcOf3qMKehdwUpZW3T328gYq+3gHKCvzvtvfkiTh+Jq7a/wAZl0B3e/pfmbJ/had3bplbkZr/AAi0+e91vyyGIJSs27W6hpNtXaed79DJLr1XgVT1z/cjRirTSyzztv8AMzuGp21v5PMGUVs+WS1EqWI0VGRVyN36GkGp+RpGs98xe4KnsAxdaL1MpMBzJxgEmMd5e0uWUv1FLBUp2d/XqhSN2rSunbdPr9D1nYPairLu52VSKt/7FzS5nknNW4b66dAqUmmpLJ5Zp5prkTWse4r4RPVL0Rm8LT0aOb2d25e0Kr6Kez8TrwqRlnk/DQ0jKngVqpPwexsuz4NWaz55B8NllkDRrtySCMpdkQ5L4kOrYgHy7F6f/P0Qjy8CEMcXT8nyunojWosl/b9SEKwMCr/Nbr+hCEFx18iqevkQhAUtPN/MLn4EIAcNf+vzRUt/vchCwSpt5BQ3/tfzIQ0g5LXx+iApLPyIQirmDV08yEABstEIVFXLl9CEAzLZCAUgbkIIUa1C4nbzIQnJZ8LpSfN6Hd9nJvm/VkIWFelj/KHh1miEKh4hCAf/2Q==",
+          "lokasi": "Sulawesi Tengah",
+          "lat": 0.6040780751489182,
+          "lon": 120.20245244386093,
+          "deskripsi": "Gunung Sojol adalah nama sebuah gunung yang terletak di perbatasan Kecamatan Sojol, Kabupaten Donggala dengan Kecamatan Tinombo, Kabupaten Parigi Moutong di Provinsi Sulawesi Tengah. Gunung ini merupakan gunung tertinggi di Sulawesi Tengah. Jarak dari Kota Parigi sekitar 110 km ke arah utara, sedangkan jarak dari Kota Donggala sekitar 125 km ke arah utara.",
+          "jalur_pendakian": "Desa Siboang \nDesa Siwalempu  \nDesa  Pesik \nDesa Lenju",
+          "info_gunung": "Nama: Gunung Sojol\nKetinggian: 2.890 mdpl\nLokasi: Sulawesi Tengah\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Torenali",
+          "image_gunung": "https://dl.kaskus.id/1.bp.blogspot.com/-3SdAamgRU_M/WU4w4J5kovI/AAAAAAAAAxA/4bdy7faKABca9ChnaBgZpUlF3RxWAWiYgCLcBGAs/s1600/%2BGunung%2BKatopasa.JPG",
+          "lokasi": "Sulawesi Tengah",
+          "lat": -1.2680262691022062,
+          "lon": 120.30360862800343,
+          "deskripsi": "Gunung Torenali atau Gunung Rorekatimbu terletak di Kecamatan Lore Utara, Kabupaten Poso, gunung ini masuk dalam area kawasan Taman Nasional Lore Lindu. ketinggiannya masih simpang siur, bagi sebagian orang meyakini ketinggian Gunung Torenali 2400 Mdpl, namun data di peta topografi edisi 1992 yang diterbitkan Bakorsurtanal tertulis 2500 Mdpl.",
+          "jalur_pendakian": "Telaga Tambing",
+          "info_gunung": "Nama: Gunung Torenali\nKetinggian: 2.500 mdpl\nLokasi: Sulawesi Tengah\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Sulawesi Tenggara",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Mekongga",
+          "image_gunung": "https://mounture.com/wp-content/uploads/2020/11/gunung-mekongga.jpeg",
+          "lokasi": "Sulawesi Tenggara",
+          "lat": -3.663286674677266,
+          "lon": 121.23596187381892,
+          "deskripsi": "Gunung Mekongga merupakan gunung tertinggi di pegunungan Mekongga yang membentang di sisi utara wilayah Kabupaten Kolaka Provinsi Sulawesi Tenggara. Kawasan pegunungan ini merupakan jajaran pegunungan Verbeck yang puncak-puncaknya terdiri atas jenis batuan karst dataran tinggi. dengann puncak tertinggi bernama mosero-sero dengan ketinggian 2.620 mdpl (Bakosurtanal, gunung ini merupakan gunung tertinggi di Provinsi Sulawesi Tenggara..",
+          "jalur_pendakian": "Dusun Surolako \nDesa Rantebaru",
+          "info_gunung": "Nama: Gunung Mekongga\nKetinggian: 2.650 mdpl\nLokasi: Sulawesi Tenggara\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Sabampolulu ",
+          "image_gunung": "https://www.gunungbagging.com/wp-content/NEXTGEN/Sambapolulu/Sambapolulu3.JPG",
+          "lokasi": "Sulawesi Tenggara",
+          "lat": -5.12963771999976,
+          "lon": 121.90078622418731,
+          "deskripsi": "Gunung Sabampolulu (Saba Mpolulu) adalah sebuah gunung yang terdapat di Kabupaten Bombana, Provinsi Sulawesi Tenggara, Indonesia. Puncak gunung ini sekaligus merupakan titik tertinggi di Pulau Kabaena dengan ketinggian mencapai 1.533 meter diatas permukaan air laut. Gunung Sabampolulu terletak di Pegunungan Malapulu yang merupakan pegunungan utama di pulau ini. Secara administrasi berada di perbatasan Kecamatan Kabaena dengan Kecamatan Kabaena Tengah, Kabupaten Bombana. Pendakian ke puncak gunung ini umumnya dimulai dari Desa Tangkeno di Kecamatan Kabaena Tengah.",
+          "jalur_pendakian": "Desa Tangkeno",
+          "info_gunung": "Nama: Gunung Sabampolulu \nKetinggian: 1.570 mdpl\nLokasi: Sulawesi Tenggara\nTipe: Gunung Non-Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Sulawesi Utara",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Mahawu",
+          "image_gunung": "https://www.pegipegi.com/travel/wp-content/uploads/2018/09/shutterstock_1167531556.jpg",
+          "lokasi": "Sulawesi Utara",
+          "lat": 1.3550493711213005,
+          "lon": 124.86219942007271,
+          "deskripsi": "Gunung Mahawu merupakan sebuah gunung yang dapat Anda temukan di Provinsi Sulawesi Utara. Gunung ini merupakan gunung yang masih aktif dan berapi. Gunung yang berada di Sulawesi ini menjadi gunung yang menjadi daya tarik bagi para wisatawan yang menuju ke Sulawesi Utara dan juga para pendaki. Bahkan, jika Anda melihat Gunung Mahawu dari kejauhan, maka Anda akan menemukan bahwa gunung ini akan tampak seperti Pulau Manado.",
+          "jalur_pendakian": "Desa Rurukan",
+          "info_gunung": "Nama: Gunung Mahawu\nKetinggian: 1.324 mdpl\nLokasi: Sulawesi Utara\nTipe: Gunung Stratovolcano"
+        },
+        {
+          "nama": "Gunung Lokon",
+          "image_gunung": "https://img.inews.co.id/media/822/files/inews_new/2020/04/17/gunung_lokon.jpg",
+          "lokasi": "Sulawesi Utara",
+          "lat": 1.3555170842048934,
+          "lon": 124.79515543710355,
+          "deskripsi": "Inilah salah satu gunung berapi aktif di Sulawesi Utara. Kebanyakan pendaki tertarik mendaki gunung Lokon karena keunikan yang dimilikinya, yaitu puncak yang datar tanpa kawah. Eits, tunggu dulu. Bukan berarti Lokon tak memiliki kawah, melainkan kawah tersebut terdapat di punggung gunung yang dinamai kawah Tompaluan.\nDari kawah ini, puncak Lokon terlihat beberapa meter saja. Namun, konon pendakian ke puncak terbilang menantang karena jalurnya berupa rerumputan. Siapkan trekking pole jika kamu berniat mendaki hingga titik 1.580 mdpl.",
+          "jalur_pendakian": "Desa Kakaskasen\nJalur Pelangi",
+          "info_gunung": "Nama: Gunung Lokon\nKetinggian: 1.580 mdpl\nLokasi: Sulawesi Utara\nTipe: Gunung Stratovolcano"
+        },
+        {
+          "nama": "Gunung Ambang",
+          "image_gunung": "https://img.inews.co.id/media/822/files/inews_new/2020/04/17/gunung_lokon.jpg",
+          "lokasi": "Sulawesi Utara",
+          "lat": 0.7671206361196401,
+          "lon": 124.40369689053509,
+          "deskripsi": "Terletak di desa Bongkudai Utara, kabupaten Bolaang Mongondow Timur, gunung Ambang menawarkan panorama yang gak kalah keren. Dari puncaknya, kamu bisa melihat danau Moat di arah timur. Dengan fisik yang prima, kamu bisa mencapai titik tertinggi gunung Ambang di 1.795 mdpl dalam durasi kurang dari 2 jam saja.\nKondisi jalur berbatu yang cukup terjal bakal menemanimu mendekati kawah gunung Ambang. Sangat disarankan memakai sepatu gunung yang safety untuk menjaga kakimu dari bebatuan yang tajam alih-alih hanya sandal gunung.",
+          "jalur_pendakian": "Jalur Bongkudai Baru",
+          "info_gunung": "Nama: Gunung Ambang\nKetinggian: 1.795 mdpl\nLokasi: Sulawesi Utara\nTipe: Gunung Stratovolcano"
+        }
+      ]
+    },
+    {
+      "lokasi": "Sumatera Barat",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Talamau",
+          "image_gunung": "https://padek.jawapos.com/wp-content/uploads/2022/03/IMG-20220302-WA0024.jpg",
+          "lokasi": "Sumatera Barat",
+          "lat": 0.08131236136914437,
+          "lon": 99.98429517346364,
+          "deskripsi": "Gunung Talamau yang juga disebut Gunung Ophir ini merupakan gunung tertinggi di Sumbar. Ketinggian gunung yang terletak di Kecamatan Kinali ini mencapai 2.982 mdpl, gunung ini termasuk gunung non-aktif. Namun, gunung tipe B tersebut sempat dikabarkan mengeluarkan asap hitam pasca gempa Pasaman yang terjadi tahun 2016 lalu. Setelah dilakukan pemantauan oleh PVMBG, memang tidak ada letusan namun masih banyak belerang yang tersimpan di sekitar kawah gunung tersebut.",
+          "jalur_pendakian": "Desa Pinaga",
+          "info_gunung": "Nama: Gunung Talamau\nKetinggian: 2.982 mdpl\nLokasi: Sumatera Barat\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Marapi",
+          "image_gunung": "https://cdn.idntimes.com/content-images/community/2021/04/800px-tandikat-singgalang-07a4f29dba4b014075e472810bb49bf0-06f07057c348b74d4620d3caf548b7d7.jpg",
+          "lokasi": "Sumatera Barat",
+          "lat": -0.37811159846964476,
+          "lon": 100.47455266553081,
+          "deskripsi": "Gunung Marapi adalah gunung berapi yang terletak di Provinsi Sumatra Barat. Nama Marapi ini hampir sama dengan Merapi yang ada di perbatasan Jawa Tengah dan Yogyakarta, namun keduanya berbeda. Gunung Marapi termasuk ke dalam Pegunungan Bukit Barisan yang membentang sepanjang selatan Pulau Sumatra",
+          "jalur_pendakian": "Jalur Tungku Tigo \nJalur Aia Angek \nJalur Kotobaru/Batupalano",
+          "info_gunung": "Nama: Gunung Talamau\nKetinggian: 2.891 mdpl\nLokasi: Sumatera Barat\nTipe: Gunung Stratovolcano Aktif"
+        },
+        {
+          "nama": "Gunung Singgalang",
+          "image_gunung": "https://cdn.idntimes.com/content-images/community/2021/04/800px-tandikat-singgalang-07a4f29dba4b014075e472810bb49bf0-06f07057c348b74d4620d3caf548b7d7.jpg",
+          "lokasi": "Sumatera Barat",
+          "lat": -0.37811159846964476,
+          "lon": 100.47455266553081,
+          "deskripsi": "Gunung Singgalang adalah gunung yang sudah tidak aktif lagi. Memiliki ketinggian ketinggian 2.877 meter. Banyak yang bilang, bentuknya sangat mirip dengan Gunung Merbabu di Jawa Tengah.",
+          "jalur_pendakian": "Jalur Koto Baru \nJalur Balingka \nJalur Toboh",
+          "info_gunung": "Nama: Gunung Singgalang\nKetinggian: 2.877 mdpl\nLokasi: Sumatera Barat\nTipe: Gunung Stratovolcano"
+        },
+        {
+          "nama": "Gunung Singgalang",
+          "image_gunung": "http://assets.kompasiana.com/items/album/2021/08/23/singgalang-pagi-hari-cover-61230b4b31a28717c8683312.jpg",
+          "lokasi": "Sumatera Barat",
+          "lat": -0.38854089378921397,
+          "lon": 100.33087604277965,
+          "deskripsi": "Gunung Singgalang adalah gunung yang sudah tidak aktif lagi. Memiliki ketinggian ketinggian 2.877 meter. Banyak yang bilang, bentuknya sangat mirip dengan Gunung Merbabu di Jawa Tengah.",
+          "jalur_pendakian": "Jalur Koto Baru \nJalur Balingka \nJalur Toboh",
+          "info_gunung": "Nama: Gunung Singgalang\nKetinggian: 2.877 mdpl\nLokasi: Sumatera Barat\nTipe: Gunung Stratovolcano"
+        },
+        {
+          "nama": "Gunung Tandikat",
+          "image_gunung": "https://asset.kompas.com/crops/5dXaJky9PwkL5Ehqw-y6ohcnmMA=/0x0:780x390/490x326/data/photo/2016/07/14/1257028Travel-Gunung-Talang780x390.JPG",
+          "lokasi": "Sumatera Barat",
+          "lat": -0.4297378276313971,
+          "lon": 100.31985077346837,
+          "deskripsi": "Gunung Tandikat adalah gunung berapi yang terletak di Dataran Tinggi Minangkabau, 7,5 km dari kota Padang Panjang, Provinsi Sumatra Barat, Indonesia. Gunung ini membentang ke arah selatan. Sebelah barat berbatasan dengan Danau Maninjau, sisi utara berdampingan dengan Gunung Singgalang, sementara di sebelah timur terdapat gugusan pegunungan vulkanik tersier tua. Gunung bertipe stratovolcano ini disebut Tandikek dalam bahasa Minangkabau.",
+          "jalur_pendakian": "Jalur Rintisan",
+          "info_gunung": "Nama: Gunung Tandikat\nKetinggian: 2.438 mdpl\nLokasi: Sumatera Barat\nTipe: Gunung Stratovolcano"
+        }
+      ]
+    },
+    {
+      "lokasi": "Sumatera Selatan",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Dempo",
+          "image_gunung": "https://pict.sindonews.net/dyn/850/pena/news/2022/01/07/720/650785/gunung-dempo-naik-status-jadi-siaga-3-daerah-diminta-tinjau-ulang-rencana-kontijensi-dfm.jpg",
+          "lokasi": "Sumatera Selatan",
+          "lat": -4.014291852539299,
+          "lon": 103.12829021251453,
+          "deskripsi": "Gunung Dempo terletak di perbatasan provinsi Sumatra Selatan dan provinsi Bengkulu tepatnya di kota dingin penghasil kopi robusta yaitu Kota Pagaralam. Gunung Dempo terletak di kota Pagaralam, dengan jarak tempuh darat sekitar 7 jam dari Palembang, ibu kota provinsi Sumatra Selatan",
+          "jalur_pendakian": "Jalur Kampung IV\nJalur Tugu Rimau\nJalur Jarai",
+          "info_gunung": "Nama: Gunung Dempo\nKetinggian: 3.142 mdpl\nLokasi: Sumatera Selatan\nTipe: Gunung Stratovolcano Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Sumatera Utara",
+      "nama_gunung": [
+        {
+          "nama": "Delleng Simpon",
+          "image_gunung": "http://sppe.pakpakbharatkab.go.id/files/large/7d96d8e64cc4f5e",
+          "lokasi": "Sumatera Utara",
+          "lat": 2.462238557900582,
+          "lon": 98.38785227520569,
+          "deskripsi": "Delleng Simpon yang berlokasi di Desa Ulumerah, Kecamatan Sitellutali Urang Julu, Kabupaten Pakpak Bharat.Dalam bahasa pakpak, Delleng berarti “gunung” sehingga delleng simpon berarti Gunung Simpon.\n\nLokasi pendakian ini baru popular setelah Gunung Sinabung meletus tahun 2010 dan tak bisa didaki lagi hingga saat ini.\nTingginya hanya 1.325 Mdpl. Namun Pakpak Bharat punya pemandangan yang eksotis dan belum terlalu ramai pendaki yang datang kemari karena jarak yang cukup jauh dari Kota Medan, sekitar 7-8 jam perjalanan menggunakan sepeda motor.",
+          "jalur_pendakian": "Desa Ulumerah",
+          "info_gunung": "Nama: Delleng Simpon\nKetinggian: 1.325 mdpl\nLokasi: Sumatera Utara\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Sibuatan",
+          "image_gunung": "https://blog.eigeradventure.com/wp-content/uploads/2021/10/gunung-sibuatan-sumut-kilas-balik-ekspedisi-28-gunung-eiger-adventure-puncak.jpg",
+          "lokasi": "Sumatera Utara",
+          "lat": 2.9196189038433755,
+          "lon": 98.4234618736889,
+          "deskripsi": "Gunung Sibuatan memang kalah pamor dari gunung-gunung tetangganya. Seperti Gunung Sibayak ataupun Gunung Sinabung. Walaupun Gunung Sibuatan bukanlah gunung aktif tetapi Gunung Sibuatan memegang rekor sebagai gunung tertinggi di Sumatera Utara. Gunung ini memiliki ketinggian 2457 mdpl. Keunikan lainnya dari gunung ini adalah masih banyaknya dijumpai tumbuhan kantong semar (nepenthes) di sepanjang jalur pendakian.Pendakian ke Gunung Sibuatan sangatlah berbeda dengan pendakian Gunung Sibayak yang notabenenya sebagai gunung rekreasi bagi sebagian kaum pendaki khususnya di Sumatera Utara. Dengan waktu pendakian sekitar 7 jam, kita akan melewati jalan berlumpur (bahkan kedalaman lumpur bisa sampai ketinggian lutut saat hujan tiba) dan tentunya akan melewati akar-akar pohon besar (karena hutan masih padat dan lebat) yang kadang mengharuskan untuk merangkak untuk melewatinya.",
+          "jalur_pendakian": "Pintu Rimba Deleng Sibuaten",
+          "info_gunung": "Nama: Gunung Sibuatan\nKetinggian: 2.457 mdpl\nLokasi: Sumatera Utara\nTipe: Gunung Non-Aktif"
+        },
+        {
+          "nama": "Gunung Sibayak",
+          "image_gunung": "https://mounture.com/wp-content/uploads/2019/09/Sibayak.png",
+          "lokasi": "Sumatera Utara",
+          "lat": 3.2011995061729497,
+          "lon": 98.51688140442232,
+          "deskripsi": "Gunung Sibayak merupakan gunung berapi, pernah meletus tahun 1881. Gunung ini berada di sekitar 50 kilometer barat daya Kota Medan. Orang suku Karo menyebut gunung Sibayak dengan sebutan \"gunung Raja\".Untuk pendakian hingga saat ini, Gunung Sibayak banyak dikunjungi dengan 2 akses yakni Sibayak 1 dan Sibayak 2.\nSerunya, setiap 17 Agustus di Gunung Sibayak diadakan upacara rutin serta lomba panjat pinang seluruh pencinta alam dari berbagai macam dan berbagai penjuru.",
+          "jalur_pendakian": "Jalur 54 \nDesa Semangat Gunung \nDesa Jarang Uda",
+          "info_gunung": "Nama: Gunung Sibayak\nKetinggian: 2.094 mdpl\nLokasi: Sumatera Utara\nTipe: Gunung Aktif"
+        }
+      ]
+    },
+    {
+      "lokasi": "Yogyakarta",
+      "nama_gunung": [
+        {
+          "nama": "Gunung Api Purba Nglanggeran",
+          "image_gunung": "https://asset.kompas.com/crops/LQ2Mj770XSVajKN0p1bpSsuK3BY=/0x0:1800x1200/750x500/data/photo/2020/10/16/5f8982630b991.jpg",
+          "lokasi": "Yogyakarta",
+          "lat": -7.8409553956885905,
+          "lon": 110.54303990406427,
+          "deskripsi": "Kabupaten Gunung Kidul sudah terkenal dengan wisata alamnya, salah satnya adalah Gunung Api Purba Nglanggeran. Gunung yang terletak di Desa Nglanggeran, Kapanewon Patuk, Kabupaten Gunung Kidul, Yogyakarta ini merupakan gunung berapi aktif sekitar 60 juta tahun lalu. Gunung ini memiliki bebatuan besar yang menjulang tinggi sehingga biasanya digunakan sebagai jalur pendakian dan tempat untuk pertapaan warga. Puncak Gunung Api Purba Nglanggeran berada diketinggian 700 mdpl, menjadi salah satu spot moment sunrise/matahari terbit yang sering diburu para pecinta mentari pagi. membutuhkan waktu sekitar 50-60 Menit untuk bisa sampai kelokasi ini.",
+          "jalur_pendakian": "Desa Nglanggeran\nJDesa Nglanggeran",
+          "info_gunung": "Nama: Gunung Api Purba Nglanggeran\nKetinggian: 700 mdpl\nLokasi: Yogyakarta\nTipe: Gunung Non-Aktif"
         }
       ]
     }
   ]
-}
+    }
